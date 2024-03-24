@@ -1,5 +1,6 @@
 
 <div id="header" align="center">
+  <img src="https://github.com/denisandroid/denisandroid/blob/main/avatar2.png?raw=true" width="140px"/>
   <div><h3>Denis Kotlyarov (BY)</h3></div>
   
 <div id="badges">
@@ -19,10 +20,8 @@
 </div>
 
 ### Programming Languages
-- **Primary:** Rust <<
-- **Others:** C, C++, C#, PHP, JAVA, SQL, BASH
 - **Experience:**
-  - Rust Senior (2017.09-2024)
+  - **(>>)** Rust Senior (2017.09-2024) 
   - C/C++ (2012-2014, 2021-2023)
   - C# + .NET middle (2019-2021, 2023)
   - PHP (2014.08-2020, 2023)
