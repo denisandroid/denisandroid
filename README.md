@@ -31,3 +31,6 @@
   - ReactNative middle (JS/TS, 2021-2023)
   - Pascal middle (2012-2013)
   - Delphi middle (2021)
+...
+
+[Show all](https://github.com/denisandroid/denisandroid/blob/main/FULL_README.md)
