@@ -64,6 +64,18 @@
 - Cura junior (2023-2024)
 - 3DSMax junior (2020-2021)
 
+## Administration
+
+|              name                 |   type   |            url                 |    role   |
+| --------------------------------- | -------- | ------------------------------ | --------- |
+| Rust — русскоговорящее сообщество | telegram | https://t.me/rustlang_ru       | admin     |
+| Rust Jobs - вакансии & резюме     | telegram | https://t.me/rust_jobs         | admin     |
+| Rust Beginners                    | telegram | https://t.me/rust_beginners_ru | admin     |
+| Rust язык программирования chat   | telegram | https://t.me/rust_chats        | moderator |
+| pro_esp8266                       | telegram | https://t.me/pro_esp8266       | admin     |
+
+<i><b>Attention<b>, this table is not advertising.</i>
+
 ## Miscellaneous
 - **Unknown Experience:**
   - Music lover senior + last_fm (~18k_scrobbles) (2011-2024)
