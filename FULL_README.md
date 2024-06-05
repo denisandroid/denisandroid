@@ -62,7 +62,7 @@
 - GNU/Linux, EmbeddedOsForDevice(based on: Archlinux ARM), Dev (2022-2024)
 - GNU/Linux, OpenBMC, Port (2023)
 - Linux, Android 4.2-4.4, Mod|Port (2013-2015)
-- clu/GNU/Linux cluOS, dev, (2017-2020, 2023-2024)
+- RUST/GNU/Linux cluOS, dev, (2017-2020, 2023-2024)
 
 ## Data Experience
 - (Amazon S3)|(Yandex S3) Rust (2023-2024)
