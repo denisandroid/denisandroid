@@ -41,22 +41,33 @@
 - Xtensa RISC-V(c3): rust/c++ esp32 (2022-2023)
 - Xtensa esp8266: c++, domoticz, mqtt (2020-2024)
 - AVR: atmega(128/328 (2014-2023))/attiny(13(2023-2024)/88-85(2020-2024) /...) (2014-2023)
-- ARMv6: raspberry pi zero_pi/pi (2020/2024)
+- ARMv6: raspberry pi (zero_pi/pi) (2020/2024)
+- Cortex-M0: RP2040 (2022-2024)
 - ARMv7/ARMv8 A53/A72: raspberry pi 3-4 (2019-2020, 2023-2024)
 - ARMv8 A53: Allwinner H3/H5, rk3328 NEO3 (2023-2024, 2020-2024)
 - MIPS24kec: mt7620n+mt7621 (2020)
 
 ## Systems Administration Experience
 - Archlinux (2018-2024)
-- Ubuntu/Mint/Kubuntu (2015-2018)
+- Ubuntu|Mint|Kubuntu (2015-2018)
 - OpenWrt (2020-2024)
 - Armbian (2022-2024)
 - RedHatCloud (2017-2018, 2020-2021)
+- OpenBMC (2023)
+
+## Operating System Development and Porting Experience
+- GNU/Linux, Archlinux ARM, Ports (2020-2023)
+- GNU/Linux, Armbian, Ports (2020-2023)
+- GNU/Linux, OpenWRT MIPS, Port (2020-2023)
+- GNU/Linux, EmbeddedOsForDevice(based on: Archlinux ARM), Dev (2022-2024)
+- GNU/Linux, OpenBMC, Port (2023)
+- Linux, Android 4.2-4.4, Mod|Port (2013-2015)
+- clu/GNU/Linux cluOS, dev, (2017-2020, 2023-2024)
 
 ## Data Experience
-- Amazon S3/Yandex Rust (2023-2024)
+- (Amazon S3)|(Yandex S3) Rust (2023-2024)
 - Postgresql Rust (2020-2022)
-- MySQL/MariDB PHP/Rust (2015-2018, 2022)
+- MySQL|MariDB PHP/Rust (2015-2018, 2022)
 
 ## 3D Experience
 - Custom 3D Printer, self made, CoreXY, Klipper, STM32F407, RP2040, RS485x2 full duplex, (2023-2024)
