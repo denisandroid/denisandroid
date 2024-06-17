@@ -82,6 +82,7 @@
 | Rust — русскоговорящее сообщество | telegram | https://t.me/rustlang_ru       | admin     |
 | Rust Jobs - вакансии & резюме     | telegram | https://t.me/rust_jobs         | admin     |
 | Rust Beginners                    | telegram | https://t.me/rust_beginners_ru | admin     |
+| Московский Rust-митап             | telegram | https://t.me/ruRust_msk        | admin     |
 | Rust язык программирования chat   | telegram | https://t.me/rust_chats        | moderator |
 | pro_esp8266                       | telegram | https://t.me/pro_esp8266       | admin     |
 
