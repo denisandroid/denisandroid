@@ -43,8 +43,8 @@
 - AVR: atmega(128/328 (2014-2023))/attiny(13(2023-2024)/88-85(2020-2024) /...) (2014-2023)
 - ARMv6: raspberry pi (zero_pi/pi) (2020/2024)
 - Cortex-M0: RP2040 (2022-2024)
-- ARMv7/ARMv8 A53/A72: raspberry pi 3-4 (2019-2020, 2023-2024)
-- ARMv8 A53: Allwinner H3/H5, rk3328 NEO3 (2023-2024, 2020-2024)
+- ARMv7/ARMv8 A53/A72: Raspberry pi 3-4 (2019-2020, 2023-2024)
+- ARMv8 A53: Rockchip RK3568B2 NanoPi R5C (2024), Allwinner H3/H5 (2022-2024), Rockchip rk3328 NanoPi NEO3 (2023-2024, 2020-2024)
 - MIPS24kec: mt7620n+mt7621 (2020)
 
 ## Systems Administration Experience
@@ -57,8 +57,8 @@
 
 ## Operating System Development and Porting Experience
 - GNU/Linux, Archlinux ARM, Ports (2020-2023)
-- GNU/Linux, Armbian, Ports (2020-2023)
-- GNU/Linux, OpenWRT MIPS, Port (2020-2023)
+- GNU/Linux, Armbian, Ports (2020-2024)
+- GNU/Linux, OpenWRT MIPS/ARM, Port (2020-2024)
 - GNU/Linux, EmbeddedOsForDevice(based on: Archlinux ARM), Dev (2022-2024)
 - GNU/Linux, OpenBMC, Port (2023)
 - Linux, Android 4.2-4.4, Mod|Port (2013-2015)
@@ -67,7 +67,7 @@
 ## Data Experience
 - (Amazon S3)|(Yandex S3) Rust (2023-2024)
 - Postgresql Rust (2020-2022)
-- MySQL|MariDB PHP/Rust (2015-2018, 2022)
+- MySQL|MariDB|SqLite PHP/Rust (2015-2018, 2022-2024)
 
 ## 3D Experience
 - Custom 3D Printer, self made, CoreXY, Klipper, STM32F407, RP2040, RS485x2 full duplex, (2023-2024)
@@ -88,11 +88,12 @@
 | ESP8266 & ESP32 [RU]              | telegram | https://t.me/ProEsp8266        | admin     |
 | Raspberry Pi [Ru]                 | telegram | https://t.me/ru_raspberry_pi   | admin     |
 | pro_esp8266                       | telegram | https://t.me/pro_esp8266       | admin     |
+| ESP8266 & ESP32 Оффтоп [RU]       | telegram | https://t.me/ProEsp8266Off     | admin     |
 
 <i><b>Attention<b>, this table is not advertising.</i>
 
 ## Miscellaneous
 - **Unknown Experience:**
-  - Music lover senior + last_fm (~20k_scrobbles) (2011-2024)
+  - Music lover senior + last_fm (~21.3k_scrobbles) (2011-2024)
   - Aquarium husbandry junior (2022-2024)
   - Chess junior (2020-2022)
