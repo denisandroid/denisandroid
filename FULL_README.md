@@ -37,15 +37,15 @@
 - Gimp (~2020-2022)
 
 ## Embedded Systems Experience
-- ARMv8: amlogic a311d2, amlogic a311d, s905w, s905x3, s912 (2023-2024)
+- ARMv8: amlogic a311d2, amlogic a311d, amlogic s905w, amlogic s905x3, amlogic s912 (2023-2024)
 - Xtensa RISC-V(c3): rust/c++ esp32 (2022-2023)
 - Xtensa esp8266: c++, domoticz, mqtt (2020-2024)
 - AVR: atmega(128/328 (2014-2023))/attiny(13(2023-2024)/88-85(2020-2024) /...) (2014-2023)
 - ARMv6: raspberry pi (zero_pi/pi) (2020/2024)
 - Cortex-M0: RP2040 (2022-2024)
-- ARMv7/ARMv8 A53/A72: Raspberry pi 3-4 (2019-2020, 2023-2024)
+- ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 (2024), Raspberry pi 3-4 (2019-2020, 2023-2024)
 - ARMv8 A53: Rockchip RK3568B2 NanoPi R5C (2024), Allwinner H3/H5 (2022-2024), Rockchip rk3328 NanoPi NEO3 (2023-2024, 2020-2024)
-- MIPS24kec: mt7620n+mt7621 (2020)
+- MIPS24kec: mt7620n, mt7621 (2020)
 
 ## Systems Administration Experience
 - Archlinux (2018-2024)
@@ -94,6 +94,6 @@
 
 ## Miscellaneous
 - **Unknown Experience:**
-  - Music lover senior + last_fm (~21.3k_scrobbles) (2011-2024)
+  - Music lover senior + last_fm (~22.2k_scrobbles) (2011-2024)
   - Aquarium husbandry junior (2022-2024)
   - Chess junior (2020-2022)
