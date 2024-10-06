@@ -83,6 +83,7 @@
 | Rust Jobs - вакансии & резюме     | telegram | https://t.me/rust_jobs         | admin     |
 | Rust Beginners                    | telegram | https://t.me/rust_beginners_ru | admin     |
 | Московский Rust-митап             | telegram | https://t.me/ruRust_msk        | admin     |
+| Раст-митапы в Санкт-Петербурге    | telegram | https://t.me/ruRust_spb        | admin     |
 | Rust язык программирования chat   | telegram | https://t.me/rust_chats        | moderator |
 | Rust offtopic                     | telegram | https://t.me/rust_offtopic     | admin     |
 | ESP8266 & ESP32 [RU]              | telegram | https://t.me/ProEsp8266        | admin     |
@@ -94,6 +95,6 @@
 
 ## Miscellaneous
 - **Unknown Experience:**
-  - Music lover senior + last_fm (~22.2k_scrobbles) (2011-2024)
+  - Music lover senior + last_fm (~22.7k_scrobbles) (2011-2024)
   - Aquarium husbandry junior (2022-2024)
   - Chess junior (2020-2022)
