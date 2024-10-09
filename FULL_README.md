@@ -89,6 +89,7 @@
 | ESP8266 & ESP32 [RU]              | telegram | https://t.me/ProEsp8266        | admin     |
 | Raspberry Pi [Ru]                 | telegram | https://t.me/ru_raspberry_pi   | admin     |
 | pro_esp8266                       | telegram | https://t.me/pro_esp8266       | admin     |
+| Lerdge 3d Russian users           | telegram | https://t.me/Lerdge3d          | admin     |
 | ESP8266 & ESP32 Оффтоп [RU]       | telegram | https://t.me/ProEsp8266Off     | admin     |
 
 <i><b>Attention<b>, this table is not advertising.</i>
