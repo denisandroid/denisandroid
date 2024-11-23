@@ -77,20 +77,20 @@
 
 ## Administration
 
-|              name                 |   type   |            url                 |    role   |
-| --------------------------------- | -------- | ------------------------------ | --------- |
-| Rust — русскоговорящее сообщество | telegram | https://t.me/rustlang_ru       | admin     |
-| Rust Jobs - вакансии & резюме     | telegram | https://t.me/rust_jobs         | admin     |
-| Rust Beginners                    | telegram | https://t.me/rust_beginners_ru | admin     |
-| Московский Rust-митап             | telegram | https://t.me/ruRust_msk        | admin     |
-| Раст-митапы в Санкт-Петербурге    | telegram | https://t.me/ruRust_spb        | admin     |
-| Rust язык программирования chat   | telegram | https://t.me/rust_chats        | moderator |
-| Rust offtopic                     | telegram | https://t.me/rust_offtopic     | admin     |
-| ESP8266 & ESP32 [RU]              | telegram | https://t.me/ProEsp8266        | admin     |
-| Raspberry Pi [Ru]                 | telegram | https://t.me/ru_raspberry_pi   | admin     |
-| pro_esp8266                       | telegram | https://t.me/pro_esp8266       | admin     |
-| Lerdge 3d Russian users           | telegram | https://t.me/Lerdge3d          | admin     |
-| ESP8266 & ESP32 Оффтоп [RU]       | telegram | https://t.me/ProEsp8266Off     | admin     |
+|              name                 |   type   |        abb        |    role   |
+| --------------------------------- | -------- | ----------------- | --------- |
+| Rust — русскоговорящее сообщество | telegram | rustlang_ru       | admin     |
+| Rust Jobs - вакансии & резюме     | telegram | rust_jobs         | admin     |
+| Rust Beginners                    | telegram | rust_beginners_ru | admin     |
+| Московский Rust-митап             | telegram | ruRust_msk        | admin     |
+| Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb        | admin     |
+| Rust язык программирования chat   | telegram | rust_chats        | admin     |
+| Rust offtopic                     | telegram | rust_offtopic     | admin     |
+| ESP8266 & ESP32 [RU]              | telegram | ProEsp8266        | admin     |
+| Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi   | admin     |
+| pro_esp8266                       | telegram | pro_esp8266       | admin     |
+| Lerdge 3d Russian users           | telegram | Lerdge3d          | admin     |
+| ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off     | admin     |
 
 <i><b>Attention<b>, this table is not advertising.</i>
 
