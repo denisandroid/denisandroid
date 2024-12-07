@@ -71,9 +71,11 @@
 
 ## 3D Experience
 - Custom 3D Printer, self made, CoreXY, Klipper, STM32F407, RP2040, RS485x2 full duplex, (2023-2024)
+- Snapmaker Original 3D Printer, Prusa, Octoprint, Marlin (2024)
 - PLA/PETG plastic (2023-2024)
 - Cura junior (2023-2024)
 - 3DSMax junior (2020-2021)
+- Blender junior (2024)
 
 ## Administration
 
