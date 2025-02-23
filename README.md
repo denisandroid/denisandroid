@@ -2,16 +2,16 @@
   <img src="https://github.com/denisandroid/denisandroid/blob/main/avatar2.png?raw=true" width="120px"/>
   </br></br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/denis-kotlyarov64">
+  <a href="http://linkedin.ulinkot.ru">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="http://telegram.ulinkot.ru">
     <img src="https://img.shields.io/badge/>> Telegram @UlinKot <<-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://ru.stackoverflow.com/users/184854/denis-kotlyarov?tab=profile">
+  <a href="http://stackoverflow.ulinkot.ru">
     <img src="https://img.shields.io/badge/Stackoverflow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="https://x.com/Ulin44107724">
+  <a href="http://twitter.ulinkot.ru">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
