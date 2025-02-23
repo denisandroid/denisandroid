@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/denis-kotlyarov64">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/UlinKot">
-    <img src="https://img.shields.io/badge/>> Telegram <<-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="telegram.ulinkot.ru">
+    <img src="https://img.shields.io/badge/>> Telegram @UlinKot <<-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://ru.stackoverflow.com/users/184854/denis-kotlyarov?tab=profile">
     <img src="https://img.shields.io/badge/Stackoverflow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
