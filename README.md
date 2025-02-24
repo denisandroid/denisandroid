@@ -19,18 +19,17 @@
 
 ### Programming Languages
 - **Experience:**
-  - **(>>)** Rust Senior (2017-2025) 
-  - C/C++ (2012-2014, 2021-2023)
+  - **(>>)** Rust Senior (2017-2025)
+  - C, C++ (2012-2014, 2021-2025)
   - C# + .NET middle (2019-2021, 2023)
-  - PHP (2014.08-2020, 2023/2025)
+  - PHP (2014.08-2020, 2023, 2025)
   - JAVA (2014.09-2020)
-  - SQL (2015-2023)
-  - BASH midle (2015.01-2020, 2023-2024)
+  - SQL (2015-2025)
+  - BASH midle (2015.01-2020, 2023-2025)
   - Wasm+Rust (2019-2021)
   - JS/TS + HTML + CSS (2011-2023)
-  - ReactNative middle (JS/TS, 2021-2023)
-  - Pascal middle (2012-2013)
+  - ReactNative middle (JS+TS, 2021-2023)
   - Delphi middle (2021)
-...
+  - Pascal middle (2012-2013)
 
 [Show all](https://github.com/denisandroid/denisandroid/blob/main/FULL_README.md)
