@@ -76,7 +76,7 @@
 - UltiMaker Cura junior (2023-2025)
 - Blender junior (2024-2025)
 - 3DSMax junior (2020-2021)
-- 
+
 ## 3D Experience (Materials)
 - PLA | PETG plastic (2023-2025)
 
