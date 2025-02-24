@@ -36,21 +36,21 @@
 - ARMv8: amlogic a311d2, amlogic a311d, amlogic s905w, amlogic s905x3, amlogic s912 (2023-2025)
 - ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 (2024), Raspberry pi 3-4 (2019-2020, 2023-2024)
 - ARMv8 A53: Rockchip RK3568B2 NanoPi R5C (2024-2025), Allwinner H3/H5 (2022-2024), Rockchip rk3328 NanoPi NEO3 (2023-2024, 2020-2024)
+- Cortex-M0: RP2040 (2022-2024)
 - Xtensa RISC-V(c3): rust/c++ esp32 (2022-2023)
 - Xtensa esp8266: c++, domoticz, mqtt (2020-2024)
 - AVR: atmega(128/328 (2014-2023))/attiny(13(2023-2024)/88-85(2020-2024) /...) (2014-2023)
 - ARMv6: raspberry pi (zero_pi/pi) (2020, 2024)
-- Cortex-M0: RP2040 (2022-2024)
 - MIPS24kec: mt7620n, mt7621 (2020)
 
 ## Systems Administration Experience
 - Archlinux (2018-2025)
 - Armbian (Debian+Ubuntu) (2022-2025)
-- Ubuntu|Debian (2015-2025)
+- Ubuntu | Debian (2015-2025)
 - OpenWrt (2020-2024)
 - OpenBMC (2023)
 - RedHatCloud (2017-2018, 2020-2021)
-- Mint|Kubuntu (2015-2018)
+- Mint | Kubuntu (2015-2018)
 
 ## Operating System Development and Porting Experience
 - GNU/Linux, Archlinux ARM, Ports (2020-2025)
@@ -58,12 +58,12 @@
 - GNU/Linux, OpenWRT MIPS/ARM, Port (2020-2025)
 - GNU/Linux, EmbeddedOsForDevice (based on: Archlinux ARM), Dev (2022-2024)
 - GNU/Linux, OpenBMC, Port (2023)
-- Linux, Android 4.2-4.4, Mod|Port (2013-2015)
+- Linux, Android 4.2-4.4, Mod | Port (2013-2015)
 - CLU/GNU/Linux cluOS, dev, (2017-2020, 2023-2024)
 
 ## Data Experience
-- MySQL|MariDB|SqLite, PHP/Rust (2015-2018, 2022-2025)
-- (Amazon S3)|(Yandex S3), Rust (2023-2024)
+- MySQL | MariDB | SqLite, PHP/Rust (2015-2018, 2022-2025)
+- (Amazon S3) | (Yandex S3), Rust (2023-2024)
 - PostgreSql, Rust (2020-2022)
 
 ## 2D Graphics Experience
