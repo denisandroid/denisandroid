@@ -100,6 +100,6 @@
 
 ## Miscellaneous
 - **Unknown Experience:**
-  - Music lover senior + last_fm (~22.7k_scrobbles) (2011-2025)
+  - Music lover senior + last_fm (~24.0k_scrobbles) (2011-2025)
   - Aquarium husbandry middle (2022-2025)
   - Chess junior (2020-2022)
