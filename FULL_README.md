@@ -34,8 +34,8 @@
 
 ## Embedded Systems Experience
 - ARMv8: amlogic a311d2, amlogic a311d, amlogic s905w, amlogic s905x3, amlogic s912 (2023-2025)
-- ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 (2024), Raspberry pi 3-4 (2019-2020, 2023-2024)
-- ARMv8 A53: Rockchip RK3568B2 NanoPi R5C (2024-2025), Allwinner H3/H5 (2022-2024), Rockchip rk3328 NanoPi NEO3 (2023-2024, 2020-2024)
+- ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 (2024-2025), Raspberry pi 3-4 (2019-2020, 2023-2024)
+- ARMv8 A53: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> (2024-2025), Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> (2022-2025), <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> (2023-2024, 2020-2024)
 - Cortex-M0: RP2040 (2022-2024)
 - Xtensa RISC-V(c3): rust/c++ esp32 (2022-2023)
 - Xtensa esp8266: c++, domoticz, mqtt (2020-2024)
