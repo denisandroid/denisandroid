@@ -72,7 +72,7 @@
 
 ## 3D Experience (Machines and slicers)
 - Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, (2023-2025)
-- Snapmaker Original 3D Printer, Prusa kinematics, Octoprint, Marlin (2024-2025)
+- <a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Octoprint, Marlin (2024-2025)
 - UltiMaker Cura junior (2023-2025)
 - Blender junior (2024-2025)
 - 3DSMax junior (2020-2021)
