@@ -80,7 +80,7 @@
 ## 3D Experience (Materials)
 - PLA | PETG plastic (2023-2025)
 
-## Networks (only development devices)
+## Networks (only device development)
 - NB-Iot, Nidd, RU (2024)
 - GSM Iot, BY (2025)
 
