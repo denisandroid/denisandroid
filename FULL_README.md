@@ -80,26 +80,31 @@
 ## 3D Experience (Materials)
 - PLA | PETG plastic (2023-2025)
 
+## Networks (only development devices)
+- NB-Iot, Nidd, RU (2024)
+- GSM Iot, BY (2025)
+
 ## Administration
-|              name                 |   type   |        abb        |    role   |
-| --------------------------------- | -------- | ----------------- | --------- |
-| Rust — русскоговорящее сообщество | telegram | rustlang_ru       | admin     |
-| Rust Jobs - вакансии & резюме     | telegram | rust_jobs         | admin     |
-| Rust Beginners                    | telegram | rust_beginners_ru | admin     |
-| Московский Rust-митап             | telegram | ruRust_msk        | admin     |
-| Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb        | admin     |
-| Rust язык программирования chat   | telegram | rust_chats        | admin     |
-| Rust offtopic                     | telegram | rust_offtopic     | admin     |
-| ESP8266 & ESP32 [RU]              | telegram | ProEsp8266        | admin     |
-| Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi   | admin     |
-| pro_esp8266                       | telegram | pro_esp8266       | admin     |
-| Lerdge 3d Russian users           | telegram | Lerdge3d          | admin     |
-| ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off     | admin     |
+|              name                 |   type   |              abb             |    role      |
+| --------------------------------- | -------- | ---------------------------- | ------------ |
+| Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    admin     |
+| Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |    admin     |
+| Rust Beginners                    | telegram | rust_beginners_ru            |    admin     |
+| Московский Rust-митап             | telegram | ruRust_msk                   |    admin     |
+| Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    admin     |
+| Rust язык программирования chat   | telegram | rust_chats                   |    admin     |
+| Rust - переводы                   | telegram | rustlang_ru_translations     |    admin     |
+| Rust offtopic                     | telegram | rust_offtopic                |    admin     |
+| ESP8266 & ESP32 [RU]              | telegram | ProEsp8266                   |    admin     |
+| Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi              |    admin     |
+| pro_esp8266                       | telegram | pro_esp8266                  |    admin     |
+| Lerdge 3d Russian users           | telegram | Lerdge3d                     |    admin     |
+| ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off                |    admin     |
 
 <i><b>Attention<b>, this table is not advertising.</i>
 
 ## Miscellaneous
-- **Unknown Experience:**
+- **Some moments of experience:**
   - Music lover senior + last_fm (~24.0k_scrobbles) (2011-2025)
   - Aquarium husbandry middle (2022-2025)
   - Chess junior (2020-2022)
