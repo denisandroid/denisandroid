@@ -33,8 +33,8 @@
   - Pascal middle <b>(2012-2013)</b>
 
 ## Embedded Systems Experience
-- ARMv8: amlogic a311d2, amlogic a311d, amlogic s905w, amlogic s905x3, amlogic s912 <b>(2023-2025)</b>
-- ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 (2024-2025), Raspberry pi 3 (2019-2023), Raspberry pi 4 <b>(2023-2024)</b>
+- ARMv8: Amlogic a311d2, Amlogic a311d, Amlogic s905w, Amlogic s905x3, Amlogic s912 <b>(2023-2025)</b>
+- ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 <b>(2024-2025)</b>, Raspberry PI 3 <b>(2019-2023)</b>, Raspberry PI 4 <b>(2023-2024)</b>
 - ARMv8 A53: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>
 - Cortex-M0: RP2040 <b>(2022-2025)</b>
 - Cortex-M3: STM32F103 <b>(2024-2025)</b>, GD32F105 <b>(2024-2025)</b>
@@ -42,8 +42,8 @@
 - Cortex-M4: STM32F407 <b>(2022-2023)</b>
 - Xtensa RISC-V(c3): rust/c++ esp32 <b>(2022-2023, 2025)</b>
 - Xtensa esp8266: c++, domoticz, mqtt <b>(2020-2024)</b>
-- AVR: atmega(128/328 <b>(2014-2023)</b>) / attiny(13<b>(2023-2024)</b> / attiny(88-85<b>(2020-2024)</b>) /...) <b>(2014-2023)</b>
 - ARMv6: raspberry pi (zero_pi_v1 / pi_v1) <b>(2020, 2024)</b>
+- AVR: atmega(128/328 <b>(2014-2023)</b>) / attiny(13<b>(2023-2024)</b> / attiny(88-85<b>(2020-2024)</b>) /...) <b>(2014-2023)</b>
 - MIPS24kec: mt7620n, mt7621 <b>(2020-2025)</b>
 
 ## Systems Administration Experience
@@ -69,7 +69,7 @@
 - (Amazon S3) | (Yandex S3), Rust <b>(2023-2024)</b>
 - PostgreSql, Rust <b>(2020-2022)</b>
 
-## Networks (only device development)
+## Networks (only embedded development)
 - NB Iot, Nidd, RU <b>(2024)</b>
 - GSM Iot, BY <b>(2025)</b>
 
