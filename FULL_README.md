@@ -6,14 +6,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="http://telegram.ulinkot.ru">
-    <img src="https://img.shields.io/badge/>> Telegram @UlinKot <<-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram @UlinKot-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="http://stackoverflow.ulinkot.ru">
     <img src="https://img.shields.io/badge/Stackoverflow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="http://twitter.ulinkot.ru">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  <a href="https://crates.io/users/denisandroid">
+    <img src="https://img.shields.io/crates/udt/19365?style=for-the-badge&logo=rust&logoColor=white" alt="X Badge"/>
   </a>
+
 </div>
 </div>
 
@@ -25,8 +26,8 @@
   - PHP <b>(2014.08-2020, 2023, 2025)</b>
   - JAVA <b>(2014.09-2020)</b>
   - SQL <b>(2015-2025)</b>
-  - BASH midle <b>(2015.01-2020, 2023-2025)</b>
   - Wasm + Rust <b>(2019-2021)</b>
+  - BASH middle <b>(2015.01-2020, 2023-2025)</b>
   - JS/TS + HTML + CSS <b>(2011-2023)</b>
   - ReactNative middle <b>(JS+TS, 2021-2023)</b>
   - Delphi middle <b>(2021)</b>
