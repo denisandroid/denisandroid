@@ -34,7 +34,7 @@
   - Pascal middle <b>(2012-2013)</b>
 
 ### Frameworks and Libraries
-<b>This section is in the process of being restored!!</b>
+<b>This section is in the process of restoring time events and appeared much later than this page!!!!</b>
 - **Experience (only Rust)**
   - Rust (Web): Axum <b>(2022-2025)</b>, Nickel <b>(2019)</b>
   - Rust (Desktop): GTK <b>(2023-2025)</b>, LVQL <b>(2023, 2025)</b>
@@ -53,7 +53,7 @@
 - **Experience (only C#)**
   - C# (Desktop+Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b>
 - **Experience (only JS | TS)**
-  - JS | TS (Web): React.js <b>(2014-2024)</b>, Angular.js <b>(2018-2020)</b>
+  - JS | TS (Web): React.js <b>(2014-2024)</b>, Bootstrap(2014-2024), Angular.js <b>(2018-2020)</b>
   - JS | TS (Mobile): React Native<b>(2020-2023)</b>, Cordova <b>(2023)</b>
   - JS | TS (Backend): Node.js <b>(2022-2023)</b>
 - **Experience (only Delphi | Pascal)**
