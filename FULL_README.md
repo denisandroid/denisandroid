@@ -33,46 +33,71 @@
   - Delphi middle <b>(2021)</b>
   - Pascal middle <b>(2012-2013)</b>
 
-## Embedded Systems Experience
-- ARMv8: Amlogic a311d2, Amlogic a311d, Amlogic s905w, Amlogic s905x3, Amlogic s912 <b>(2023-2025)</b>
-- ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 <b>(2024-2025)</b>, Raspberry PI 3 <b>(2019-2023)</b>, Raspberry PI 4 <b>(2023-2024)</b>
-- ARMv8 A53: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>
-- Cortex-M0: RP2040 <b>(2022-2025)</b>
-- Cortex-M3: STM32F103 <b>(2024-2025)</b>, GD32F105 <b>(2024-2025)</b>
-- Cortex-M33: RP2350 <b>(2025)</b>
-- Cortex-M4: STM32F407 <b>(2022-2023)</b>
-- Xtensa RISC-V(c3): rust/c++ esp32 <b>(2022-2023, 2025)</b>
-- Xtensa esp8266: c++, domoticz, mqtt <b>(2020-2024)</b>
-- ARMv6: raspberry pi (zero_pi_v1 / pi_v1) <b>(2020, 2024)</b>
-- AVR: atmega(128/328 <b>(2014-2023)</b>) / attiny(13<b>(2023-2024)</b> / attiny(88-85<b>(2020-2024)</b>) /...) <b>(2014-2023)</b>
-- MIPS24kec: mt7620n, mt7621 <b>(2020-2025)</b>
+## Frameworks and Libraries
+<b>This section is in the process of being restored!!</b>
+- **Experience:**
+  - Rust (Web): Axum <b>(2022-2025)</b>, Nickel <b>(2019)</b>
+  - Rust (Desktop): GTK <b>(2023-2025)</b>
+  - Rust (Embedded):
+  - Rust (Libs): Tokio <b>(2020-2025)</b>, Rustls <b>(2020, 2022-2023)</b>, minijinja <b>(2022-2024)</b>, Serde <b>(2017-2025)</b>, Diesel <b>(2021-2023)</b>,
+  - C/C++ (Desktop): QT <b>(2020-2024)</b>
+  - C/C++ (Embedded): esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
+  - C/C++ (Mobile): Android NDK <b>(2012-2014)</b>
+  - Java (Backend): Spring<b>(2015-2018)</b>, Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>, cluServer <b>(2015-2022)</b>
+  - Java (Mobile): Android SDK<b>(2014-2018)</b>
+  - Java (Desktop): Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>
+  - PHP (Web): CodeIgniter 3/4 <b>(2015-2024)</b>, Laravel <b>(2015-2018)</b>, Swing <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
+  - C# (Desktop+Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b>
+  - JS/TS (Web): React.js <b>(2014-2024)</b>, Angular.js <b>(2018-2020)</b>
+  - JS/TS (Mobile): React Native<b>(2020-2023)</b>, Cordova <b>(2023)</b>
+  - JS/TS (Backend): Node.js <b>(2022-2023)</b>
+  - Delphi/Pascal (Desktop): VCL (embarcadero, 2012-2015), CLX (embarcadero, 2012-2015)
 
-## Systems Administration Experience
-- Archlinux <b>(2018-2025)</b>
-- Armbian (Debian+Ubuntu) <b>(2022-2025)</b>
-- Ubuntu | Debian <b>(2015-2025)</b>
-- OpenWrt <b>(2020-2025)</b>
-- OpenBMC <b>(2023)</b>
-- RedHatCloud <b>(2017-2018, 2020-2021)</b>
-- Mint | Kubuntu <b>(2015-2018)</b>
+## Embedded Systems
+- **Experience:**
+  - ARMv8: Amlogic a311d2, Amlogic a311d, Amlogic s905w, Amlogic s905x3, Amlogic s912 <b>(2023-2025)</b>
+  - ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 <b>(2024-2025)</b>, Raspberry PI 3 <b>(2019-2023)</b>, Raspberry PI 4 <b>(2023-2024)</b>
+  - ARMv8 A53: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>
+  - Cortex-M0: RP2040 <b>(2022-2025)</b>
+  - Cortex-M3: STM32F103 <b>(2024-2025)</b>, GD32F105 <b>(2024-2025)</b>
+  - Cortex-M33: RP2350 <b>(2025)</b>
+  - Cortex-M4: STM32F407 <b>(2022-2023)</b>
+  - Xtensa RISC-V(c3): rust/c++ esp32 <b>(2022-2023, 2025)</b>
+  - Xtensa esp8266: c++, domoticz, mqtt <b>(2020-2024)</b>
+  - ARMv6: raspberry pi (zero_pi_v1 / pi_v1) <b>(2020, 2024)</b>
+  - AVR: atmega(128/328 <b>(2014-2023)</b>) / attiny(13<b>(2023-2024)</b> / attiny(88-85<b>(2020-2024)</b>) /...) <b>(2014-2023)</b>
+  - MIPS24kec: mt7620n, mt7621 <b>(2020-2025)</b>
 
-## Operating System Development and Porting Experience
-- GNU/Linux, Archlinux ARM, Ports <b>(2020-2025)</b>
-- GNU/Linux, Armbian, Ports <b>(2020-2025)</b>
-- GNU/Linux, OpenWRT MIPS/ARM, Port <b>(2020-2025)</b>
-- GNU/Linux, EmbeddedOsForDevice (based on: Archlinux ARM), Dev <b>(2022-2024)</b>
-- GNU/Linux, OpenBMC, Port <b>(2023)</b>
-- Linux, Android 4.2-4.4, Mod | Port <b>(2013-2015)</b>
-- CLU/GNU/Linux cluOS, dev, <b>(2017-2020, 2023-2024)</b>
+## Systems Administration
+- **Experience:**
+  - Archlinux <b>(2018-2025)</b>
+  - Armbian (Debian+Ubuntu) <b>(2022-2025)</b>
+  - Ubuntu | Debian <b>(2015-2025)</b>
+  - OpenWrt <b>(2020-2025)</b>
+  - OpenBMC <b>(2023)</b>
+  - RedHatCloud <b>(2017-2018, 2020-2021)</b>
+  - Mint | Kubuntu <b>(2015-2018)</b>
 
-## Data Experience
-- MySQL | MariDB | SqLite, PHP/Rust <b>(2015-2018, 2022-2025)</b>
-- (Amazon S3) | (Yandex S3), Rust <b>(2023-2024)</b>
-- PostgreSql, Rust <b>(2020-2022)</b>
+## Operating System
+- **Development and Porting Experience:**
+  - GNU/Linux, Archlinux ARM, Ports <b>(2020-2025)</b>
+  - GNU/Linux, Armbian, Ports <b>(2020-2025)</b>
+  - GNU/Linux, OpenWRT MIPS/ARM, Port <b>(2020-2025)</b>
+  - GNU/Linux, EmbeddedOsForDevice (based on: Archlinux ARM), Dev <b>(2022-2024)</b>
+  - GNU/Linux, OpenBMC, Port <b>(2023)</b>
+  - Linux, Android 4.2-4.4, Mod | Port <b>(2013-2015)</b>
+  - CLU/GNU/Linux cluOS, dev, <b>(2017-2020, 2023-2024)</b>
 
-## Networks (only embedded development)
-- NB Iot, Nidd, RU <b>(2024)</b>
-- GSM Iot, BY <b>(2025)</b>
+## Data
+- **Experience:**
+  - MySQL | MariaDB | SQLite, PHP/Rust <b>(2015-2018, 2022-2025)</b>
+  - (Amazon S3) | (Yandex S3), Rust <b>(2023-2024)</b>
+  - PostgreSQL, PHP/Rust <b>(2020-2025)</b>
+
+## Networks
+- **Embedded Device Development:**
+  - NB Iot, Nidd, RU <b>(2024)</b>
+  - GSM Iot, BY <b>(2025)</b>
 
 ## 2D Graphics Experience
 - Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b>
