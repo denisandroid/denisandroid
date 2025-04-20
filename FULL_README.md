@@ -102,12 +102,23 @@
   - Docker <b>(2018-2025)</b>
   - systemd-nspawn <b>(2015-2018)</b>
   
-### DBMS (Database Management System)
+### Database Management System (DBMS)
 - **Experience**
   - MySQL | MariaDB | SQLite, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
   - Amazon S3 | Yandex S3, Rust <b>(2023-2024)</b>
   - ClickHouse, PHP | Rust <b>(2022-2023)</b>
   - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
+
+### Distributed Version Control Systems (DVCS)
+- **Experience**
+  - Git (2017-2025)
+  - Mercurial (2012-2017)
+
+### Online Code Hosting and Collaboration Services
+- **Experience**
+  - GitHub (2017-2025)
+  - GitVerse (2024)
+  - Bitbucket (2014-2017)
 
 ### Networks
 - **IOT Device Development (only)**
@@ -115,9 +126,9 @@
   - GSM Iot, BY <b>(2025)</b>
   - Zigbee, IEEE 802.15.4 <b>(2018)</b>
   - 1Gbit | 2.5Gbit | 10Gbit (only local network)
-  - RS485 | UART, 115k-5 million baud., (tire)
+  - RS485 | UART, 115k-5 million baud, (tire)
 
-### 3D Experience (Machines, slicers, modeling)
+### 3D Experience
 - **Machines**
   - Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, <b>(2023-2025)</b>
   - <a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2025)</b>
