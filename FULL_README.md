@@ -34,7 +34,9 @@
   - Pascal middle <b>(2012-2013)</b>
 
 ### Frameworks and Libraries
-<b>This section is in the process of restoring time events and appeared much later than this page!!!!</b>
+> [!NOTE]  
+> This section is in the process of restoring time events and appeared much later than this page!!
+> 
 - **Experience (only Rust)**
   - Rust (Web): Axum <b>(2022-2025)</b>, Nickel <b>(2019)</b>
   - Rust (Desktop): GTK <b>(2023-2025)</b>, LVQL <b>(2023, 2025)</b>
@@ -42,14 +44,14 @@
   - Rust (Libs): Tokio <b>(2020-2025)</b>, Rustls <b>(2020, 2022-2023)</b>, minijinja <b>(2022-2024)</b>, Serde <b>(2017-2025)</b>, Diesel <b>(2021-2023)</b>,
 - **Experience (only C | C++)**
   - C | C++ (Desktop): QT <b>(2020-2024)</b>, Fltk <b>(2018-2019)</b>
-  - C | C++ (Embedded): LVQL<b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
+  - C | C++ (Embedded): LVQL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
   - C | C++ (Mobile): Android NDK <b>(2012-2014)</b>
 - **Experience (only Java)**
   - Java (Backend): Spring<b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
   - Java (Mobile): Android SDK<b>(2014-2018)</b>
   - Java (Desktop): Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>
 - **Experience (only PHP)**
-  - PHP (Web): CodeIgniter 3/4 <b>(2015-2024)</b>, Laravel <b>(2015-2018)</b>, Swing <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
+  - PHP (Web): CodeIgniter 3/4 <b>(2015-2024)</b>, Laravel <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
 - **Experience (only C#)**
   - C# (Desktop+Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b>
 - **Experience (only JS | TS)**
@@ -139,27 +141,30 @@
   - SolveSpace, junior <b>(2023-2025)</b>
   - 3DSMax, junior <b>(2020-2021)</b>
 - **Materials**
-  - PLA | PETG plastic<b>(2023-2025)</b>
-  - TPU plastic<b>(2025)</b>
+  - PLA | PETG plastic <b>(2023-2025)</b>
+  - TPU plastic <b>(2025)</b>
 
 ### Administration
-|              name                 |   type   |              abb             |        role         |
-| --------------------------------- | -------- | ---------------------------- | ------------------- |
-| Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    <b>admin</b>     |
-| Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |    <b>admin</b>     |
-| Rust Beginners                    | telegram | rust_beginners_ru            |    <b>admin</b>     |
-| Московский Rust-митап             | telegram | ruRust_msk                   |    <b>admin</b>     |
-| Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    <b>admin</b>     |
-| Rust язык программирования chat   | telegram | rust_chats                   |    <b>admin</b>     |
-| Rust - переводы                   | telegram | rustlang_ru_translations     |    <b>admin</b>     |
-| Rust offtopic                     | telegram | rust_offtopic                |    <b>admin</b>     |
-| ESP8266 & ESP32 [RU]              | telegram | ProEsp8266                   |    <b>admin</b>     |
-| Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi              |    <b>admin</b>     |
-| pro_esp8266                       | telegram | pro_esp8266                  |    <b>admin</b>     |
-| Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
-| ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off                |    <b>admin</b>     |
+While I used to actively use Stack Overflow to help others and share experiences, now I use these active platforms on the Internet (Telegram), where you can find me as an administrator or even an owner.
 
-<i><b>Attention</b>, this table is not advertising.</i>
+|   direction   |              name                 |   type   |              abb             |        role         |
+| ------------- | --------------------------------- | -------- | ---------------------------- | ------------------- |
+|      rust     | Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    <b>admin</b>     |
+|      rust     | Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |    <b>admin</b>     |
+|      rust     | Rust Beginners                    | telegram | rust_beginners_ru            |    <b>admin</b>     |
+|      rust     | Московский Rust-митап             | telegram | ruRust_msk                   |    <b>admin</b>     |
+|      rust     | Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    <b>admin</b>     |
+|      rust     | Rust язык программирования chat   | telegram | rust_chats                   |    <b>admin</b>     |
+|      rust     | Rust - переводы                   | telegram | rustlang_ru_translations     |    <b>admin</b>     |
+|      rust     | Rust offtopic                     | telegram | rust_offtopic                |    <b>admin</b>     |
+|    c \| c++   | ESP8266 & ESP32 [RU]              | telegram | ProEsp8266                   |    <b>admin</b>     |
+|               | Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi              |    <b>admin</b>     |
+|    c \| c++   | pro_esp8266                       | telegram | pro_esp8266                  |    <b>admin</b>     |
+|       3D      | Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
+|       _       | ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off                |    <b>admin</b>     |
+
+> [!WARNING]  
+> <b>Attention</b>, this table is not advertising.
 
 ### 2D Graphics Experience
 - **Experience**
