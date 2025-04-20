@@ -35,23 +35,29 @@
 
 ### Frameworks and Libraries
 <b>This section is in the process of being restored!!</b>
-- **Experience**
+- **Experience (only Rust)**
   - Rust (Web): Axum <b>(2022-2025)</b>, Nickel <b>(2019)</b>
-  - Rust (Desktop): GTK <b>(2023-2025)</b>
-  - Rust (Embedded):
+  - Rust (Desktop): GTK <b>(2023-2025)</b>, LVQL <b>(2023, 2025)</b>
+  - Rust (Embedded): LVQL <b>(2023, 2025)</b>
   - Rust (Libs): Tokio <b>(2020-2025)</b>, Rustls <b>(2020, 2022-2023)</b>, minijinja <b>(2022-2024)</b>, Serde <b>(2017-2025)</b>, Diesel <b>(2021-2023)</b>,
-  - C/C++ (Desktop): QT <b>(2020-2024)</b>
-  - C/C++ (Embedded): LVQL, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
-  - C/C++ (Mobile): Android NDK <b>(2012-2014)</b>
-  - Java (Backend): Spring<b>(2015-2018)</b>, Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>, cluServer <b>(2015-2022)</b>
+- **Experience (only C | C++)**
+  - C | C++ (Desktop): QT <b>(2020-2024)</b>, Fltk <b>(2018-2019)</b>
+  - C | C++ (Embedded): LVQL<b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
+  - C | C++ (Mobile): Android NDK <b>(2012-2014)</b>
+- **Experience (only Java)**
+  - Java (Backend): Spring<b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
   - Java (Mobile): Android SDK<b>(2014-2018)</b>
   - Java (Desktop): Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>
+- **Experience (only PHP)**
   - PHP (Web): CodeIgniter 3/4 <b>(2015-2024)</b>, Laravel <b>(2015-2018)</b>, Swing <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
+- **Experience (only C#)**
   - C# (Desktop+Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b>
-  - JS/TS (Web): React.js <b>(2014-2024)</b>, Angular.js <b>(2018-2020)</b>
-  - JS/TS (Mobile): React Native<b>(2020-2023)</b>, Cordova <b>(2023)</b>
-  - JS/TS (Backend): Node.js <b>(2022-2023)</b>
-  - Delphi/Pascal (Desktop): VCL (embarcadero, 2012-2015), CLX (embarcadero, 2012-2015)
+- **Experience (only JS | TS)**
+  - JS | TS (Web): React.js <b>(2014-2024)</b>, Angular.js <b>(2018-2020)</b>
+  - JS | TS (Mobile): React Native<b>(2020-2023)</b>, Cordova <b>(2023)</b>
+  - JS | TS (Backend): Node.js <b>(2022-2023)</b>
+- **Experience (only Delphi | Pascal)**
+  - Delphi | Pascal (Desktop): VCL (embarcadero, 2012-2015), CLX (embarcadero, 2012-2015)
 
 ### Embedded Systems
 - **Experience (ARM)**
@@ -67,7 +73,7 @@
 - **Experience (RISC)**
   - Xtensa: RISC-V(c3): ESP-C3(esp32), ESP-S(esp32), rust | c++<b>(2022-2023, 2025)</b>
   - Xtensa: ESP-12F(esp8266), rust | c++<b>(2020-2024)</b>
-  - MIPS24kec: mt7621a, mt7620n, mt7621, rust | c++ <b>(2020-2025)</b>
+  - MIPS24kec: mt7621a, mt7620n, rust | c++ <b>(2020-2025)</b>
   - AVR: atmega128 | atmega328, rust | c++ <b>(2014-2023)</b>), attiny13A<b>(2023-2024)</b>, attiny88-85<b>(2020-2024)</b> 
 
 ### Systems Administration
@@ -91,36 +97,39 @@
 - **Porting Experience (only):**
   - GNU/Linux, OpenBMC, Port <b>(2023)</b>
 
-### Networks
-- **IOT Device Development (only)**
-  - NB Iot, Nidd, RU <b>(2024)</b>
-  - GSM Iot, BY <b>(2025)</b>
+### Containerization platforms
+- **Developing experience for projects**
+  - Docker <b>(2018-2025)</b>
+  - systemd-nspawn <b>(2015-2018)</b>
   
 ### DBMS (Database Management System)
 - **Experience**
   - MySQL | MariaDB | SQLite, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
-  - (Amazon S3) | (Yandex S3), Rust <b>(2023-2024)</b>
+  - Amazon S3 | Yandex S3, Rust <b>(2023-2024)</b>
   - ClickHouse, PHP | Rust <b>(2022-2023)</b>
   - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
 
-### 2D Graphics Experience
-- **Experience**
-  - Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b>
-  - Gimp <b>(~2020-2025)</b>
-  - CorelDraw <b>(~2015-2019)</b>
+### Networks
+- **IOT Device Development (only)**
+  - NB Iot, Nidd, RU <b>(2024)</b>
+  - GSM Iot, BY <b>(2025)</b>
+  - Zigbee, IEEE 802.15.4 <b>(2018)</b>
+  - 1Gbit | 2.5Gbit | 10Gbit (only local network)
+  - RS485 | UART, 115k-5 million baud., (tire)
 
 ### 3D Experience (Machines, slicers, modeling)
 - **Machines**
   - Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, <b>(2023-2025)</b>
   - <a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2025)</b>
 - **Slicers**
-  - UltiMaker Cura junior <b>(2023-2025)</b>
+  - UltiMaker Cura, junior <b>(2023-2025)</b>
 - **Modeling**
-  - Blender junior <b>(2024-2025)</b>
-  - SolveSpace junior <b>(2023-2025)</b>
-  - 3DSMax junior <b>(2020-2021)</b>
+  - Blender, junior <b>(2024-2025)</b>
+  - SolveSpace, junior <b>(2023-2025)</b>
+  - 3DSMax, junior <b>(2020-2021)</b>
 - **Materials**
-  - PLA | PETG plastic <b>(2023-2025)</b>
+  - PLA | PETG plastic<b>(2023-2025)</b>
+  - TPU plastic<b>(2025)</b>
 
 ### Administration
 |              name                 |   type   |              abb             |        role         |
@@ -140,6 +149,12 @@
 | ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off                |    <b>admin</b>     |
 
 <i><b>Attention<b>, this table is not advertising.</i>
+
+### 2D Graphics Experience
+- **Experience**
+  - Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b>
+  - Gimp <b>(~2020-2025)</b>
+  - CorelDraw <b>(~2015-2019)</b>
 
 ### Miscellaneous
 - **Some moments of experience:**
