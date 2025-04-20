@@ -148,7 +148,7 @@
 | Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
 | ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off                |    <b>admin</b>     |
 
-<i><b>Attention<b>, this table is not advertising.</i>
+<i><b>Attention</b>, this table is not advertising.</i>
 
 ### 2D Graphics Experience
 - **Experience**
