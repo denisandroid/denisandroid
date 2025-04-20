@@ -19,7 +19,7 @@
 </div>
 
 ### Programming Languages
-- **Experience:**
+- **Experience**
   - **(>>)** Rust Senior <b>(2017-2025)</b>
   - C, C++ <b>(2012-2014, 2021-2025)</b>
   - C# + .NET middle <b>(2019-2021, 2023)</b>
@@ -33,15 +33,15 @@
   - Delphi middle <b>(2021)</b>
   - Pascal middle <b>(2012-2013)</b>
 
-## Frameworks and Libraries
+### Frameworks and Libraries
 <b>This section is in the process of being restored!!</b>
-- **Experience:**
+- **Experience**
   - Rust (Web): Axum <b>(2022-2025)</b>, Nickel <b>(2019)</b>
   - Rust (Desktop): GTK <b>(2023-2025)</b>
   - Rust (Embedded):
   - Rust (Libs): Tokio <b>(2020-2025)</b>, Rustls <b>(2020, 2022-2023)</b>, minijinja <b>(2022-2024)</b>, Serde <b>(2017-2025)</b>, Diesel <b>(2021-2023)</b>,
   - C/C++ (Desktop): QT <b>(2020-2024)</b>
-  - C/C++ (Embedded): esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
+  - C/C++ (Embedded): LVQL, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
   - C/C++ (Mobile): Android NDK <b>(2012-2014)</b>
   - Java (Backend): Spring<b>(2015-2018)</b>, Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>, cluServer <b>(2015-2022)</b>
   - Java (Mobile): Android SDK<b>(2014-2018)</b>
@@ -53,23 +53,25 @@
   - JS/TS (Backend): Node.js <b>(2022-2023)</b>
   - Delphi/Pascal (Desktop): VCL (embarcadero, 2012-2015), CLX (embarcadero, 2012-2015)
 
-## Embedded Systems
-- **Experience:**
-  - ARMv8: Amlogic a311d2, Amlogic a311d, Amlogic s905w, Amlogic s905x3, Amlogic s912 <b>(2023-2025)</b>
-  - ARMv8 A53/A72: Rockchip RK3399 NanoPc T4 <b>(2024-2025)</b>, Raspberry PI 3 <b>(2019-2023)</b>, Raspberry PI 4 <b>(2023-2024)</b>
-  - ARMv8 A53: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>
-  - Cortex-M0: RP2040 <b>(2022-2025)</b>
-  - Cortex-M3: STM32F103 <b>(2024-2025)</b>, GD32F105 <b>(2024-2025)</b>
-  - Cortex-M33: RP2350 <b>(2025)</b>
-  - Cortex-M4: STM32F407 <b>(2022-2023)</b>
-  - Xtensa RISC-V(c3): rust/c++ esp32 <b>(2022-2023, 2025)</b>
-  - Xtensa esp8266: c++, domoticz, mqtt <b>(2020-2024)</b>
-  - ARMv6: raspberry pi (zero_pi_v1 / pi_v1) <b>(2020, 2024)</b>
-  - AVR: atmega(128/328 <b>(2014-2023)</b>) / attiny(13<b>(2023-2024)</b> / attiny(88-85<b>(2020-2024)</b>) /...) <b>(2014-2023)</b>
-  - MIPS24kec: mt7620n, mt7621 <b>(2020-2025)</b>
+### Embedded Systems
+- **Experience (ARM)**
+  - ARMv8 A53+A72: Amlogic a311d2, Amlogic a311d, Amlogic s905x3 <b>(2023-2025)</b>, Rockchip RK3399 NanoPc T4 <b>(2024-2025)</b>
+  - ARMv8 A72:  Raspberry PI 4 <b>(2023-2024)</b>
+  - ARMv8 A55: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>
+  - ARMv8 A53: Raspberry PI 3 <b>(2019-2023)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>, Amlogic s905w<b>(2023-2025)</b>, Amlogic s912<b>(2023-2025)</b>
+  - ARMv6 A11: raspberry pi (zero_pi_v1 / pi_v1) <b>(2020, 2024)</b>
+  - ARM Cortex-M0: RP2040 <b>(2022-2025)</b>
+  - ARM Cortex-M3: STM32F103 <b>(2024-2025)</b>, GD32F105 <b>(2024-2025)</b>
+  - ARM Cortex-M33: RP2350 <b>(2025)</b>
+  - ARM Cortex-M4: STM32F407 <b>(2022-2023)</b>
+- **Experience (RISC)**
+  - Xtensa: RISC-V(c3): ESP-C3(esp32), ESP-S(esp32), rust | c++<b>(2022-2023, 2025)</b>
+  - Xtensa: ESP-12F(esp8266), rust | c++<b>(2020-2024)</b>
+  - MIPS24kec: mt7621a, mt7620n, mt7621, rust | c++ <b>(2020-2025)</b>
+  - AVR: atmega128 | atmega328, rust | c++ <b>(2014-2023)</b>), attiny13A<b>(2023-2024)</b>, attiny88-85<b>(2020-2024)</b> 
 
-## Systems Administration
-- **Experience:**
+### Systems Administration
+- **Administration experience**
   - Archlinux <b>(2018-2025)</b>
   - Armbian (Debian+Ubuntu) <b>(2022-2025)</b>
   - Ubuntu | Debian <b>(2015-2025)</b>
@@ -78,43 +80,49 @@
   - RedHatCloud <b>(2017-2018, 2020-2021)</b>
   - Mint | Kubuntu <b>(2015-2018)</b>
 
-## Operating System
-- **Development and Porting Experience:**
-  - GNU/Linux, Archlinux ARM, Ports <b>(2020-2025)</b>
-  - GNU/Linux, Armbian, Ports <b>(2020-2025)</b>
-  - GNU/Linux, OpenWRT MIPS/ARM, Port <b>(2020-2025)</b>
-  - GNU/Linux, EmbeddedOsForDevice (based on: Archlinux ARM), Dev <b>(2022-2024)</b>
-  - GNU/Linux, OpenBMC, Port <b>(2023)</b>
-  - Linux, Android 4.2-4.4, Mod | Port <b>(2013-2015)</b>
+### Operating System
+- **Experience development and porting**
+  - GNU/Linux, Armbian, Porting | Development <b>(2020-2025)</b>
+  - GNU/Linux, Archlinux ARM, Porting | Development <b>(2020-2025)</b>
+  - GNU/Linux, OpenWRT MIPS/ARM, Porting | Development <b>(2020-2025)</b>
+  - Linux, Android 4.2-4.4, Mod | Porting <b>(2013-2015)</b>
+- **Development Experience (only):**
   - CLU/GNU/Linux cluOS, dev, <b>(2017-2020, 2023-2024)</b>
+- **Porting Experience (only):**
+  - GNU/Linux, OpenBMC, Port <b>(2023)</b>
 
-## Data
-- **Experience:**
-  - MySQL | MariaDB | SQLite, PHP/Rust <b>(2015-2018, 2022-2025)</b>
-  - (Amazon S3) | (Yandex S3), Rust <b>(2023-2024)</b>
-  - PostgreSQL, PHP/Rust <b>(2020-2025)</b>
-
-## Networks
-- **Embedded Device Development:**
+### Networks
+- **IOT Device Development (only)**
   - NB Iot, Nidd, RU <b>(2024)</b>
   - GSM Iot, BY <b>(2025)</b>
+  
+### DBMS (Database Management System)
+- **Experience**
+  - MySQL | MariaDB | SQLite, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
+  - (Amazon S3) | (Yandex S3), Rust <b>(2023-2024)</b>
+  - ClickHouse, PHP | Rust <b>(2022-2023)</b>
+  - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
 
-## 2D Graphics Experience
-- Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b>
-- Gimp <b>(~2020-2025)</b>
+### 2D Graphics Experience
+- **Experience**
+  - Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b>
+  - Gimp <b>(~2020-2025)</b>
+  - CorelDraw <b>(~2015-2019)</b>
 
-## 3D Experience (Machines, slicers, modeling)
-- Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, <b>(2023-2025)</b>
-- <a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2025)</b>
-- UltiMaker Cura junior <b>(2023-2025)</b>
-- Blender junior <b>(2024-2025)</b>
-- SolveSpace junior <b>(2023-2025)</b>
-- 3DSMax junior <b>(2020-2021)</b>
+### 3D Experience (Machines, slicers, modeling)
+- **Machines**
+  - Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, <b>(2023-2025)</b>
+  - <a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2025)</b>
+- **Slicers**
+  - UltiMaker Cura junior <b>(2023-2025)</b>
+- **Modeling**
+  - Blender junior <b>(2024-2025)</b>
+  - SolveSpace junior <b>(2023-2025)</b>
+  - 3DSMax junior <b>(2020-2021)</b>
+- **Materials**
+  - PLA | PETG plastic <b>(2023-2025)</b>
 
-## 3D Experience (Materials)
-- PLA | PETG plastic <b>(2023-2025)</b>
-
-## Administration
+### Administration
 |              name                 |   type   |              abb             |        role         |
 | --------------------------------- | -------- | ---------------------------- | ------------------- |
 | Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    <b>admin</b>     |
@@ -133,7 +141,7 @@
 
 <i><b>Attention<b>, this table is not advertising.</i>
 
-## Miscellaneous
+### Miscellaneous
 - **Some moments of experience:**
   - Music lover senior + last_fm (~24.0k_scrobbles) <b>(2011-2025)</b>
   - Aquarium husbandry middle <b>(2022-2025)</b>
