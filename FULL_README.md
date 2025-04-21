@@ -104,7 +104,7 @@
 - **Experience development**
   - Yandex Cloud <b>(2023-2024)</b>
   - Google Cloud <b>(2021-2022)</b>
-  - OpenShift <b>(2017-2019)</b>
+  - Red Hat OpenShift <b>(2017-2019)</b>
 
 ### Containerization platforms
 - **Developing experience for projects**
