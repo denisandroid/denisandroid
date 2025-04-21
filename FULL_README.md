@@ -44,7 +44,7 @@
   - Rust (Embedded): <a href="https://crates.io/crates/lvgl">LVGL</a> <b>(2023, 2025)</b>, <a href="https://crates.io/crates/rppal">rppal</a> <b>(2022-2023)</b>, <a href="https://crates.io/crates/esp-hal">esp-hal</a> <b>(2022-2024)</b>, <a href="https://crates.io/crates/xtensa-lx">xtensa-lx</a> <b>(2022-2023)</b>
   - Rust (Libs): <a href="https://crates.io/crates/tokio">tokio</a> <b>(2020-2025)</b>, <a href="https://crates.io/crates/rustls">rustls</a> <b>(2020, 2022-2023)</b>, <a href="https://crates.io/crates/v4l">v4l</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/image">image</a> <b>(2017-2024)</b>, <a href="https://crates.io/crates/dasp">dasp</a> <b>(2017-2024)</b>, <a href="https://crates.io/crates/minijinja">minijinja</a> <b>(2022-2024)</b>, <a href="https://crates.io/crates/serde">serde</a> <b>(2017-2025)</b>, <a href="https://crates.io/crates/protobuf">protobuf</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/diesel">diesel</a> <b>(2021-2023)</b>, <a href="https://crates.io/crates/bincode">bincode</a> <b>(2018-2025)</b>, <a href="https://crates.io/crates/csv">csv</a> <b>(2017-2019)</b>, <a href="https://crates.io/crates/anyhow">anyhow</a> <b>(2018-2025)</b>, <a href="https://crates.io/crates/openh264">openh264</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/tesseract">tesseract</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/log">log</a> <b>(2017-2025)</b>
 - **Experience (only C | C++)**
-  - C | C++ (Desktop): QT <b>(2020-2024)</b>, Fltk <b>(2018-2019)</b>
+  - C | C++ (Desktop): QT <b>(2020-2024)</b>, Fltk <b>(2018-2019)</b>, VCL (embarcadero, 2012-2014)
   - C | C++ (Embedded): LVGL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
   - C | C++ (Mobile): Android NDK <b>(2012-2014)</b>
 - **Experience (only Java)**
@@ -60,7 +60,7 @@
   - JS | TS (Mobile): React Native <b>(2020-2023)</b>, Cordova <b>(2023)</b>
   - JS | TS (Backend): Node.js <b>(2022-2023)</b>
 - **Experience (only Delphi | Pascal)**
-  - Delphi | Pascal (Desktop): VCL (embarcadero, 2012-2015), CLX (embarcadero, 2012-2015)
+  - Delphi | Pascal (Desktop): VCL <b>(embarcadero, 2012-2015)</b>, CLX <b>(embarcadero, 2012-2015)</b>
 
 ### Embedded Systems
 - **Experience (ARM)**
