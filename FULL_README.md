@@ -39,13 +39,13 @@
 > 
 - **Experience (only Rust)**
   - Rust (Web): <a href="https://crates.io/crates/axum">Axum</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/nickel">Nickel</a> <b>(2019)</b>
-  - Rust (Desktop): <a href="https://crates.io/crates/gtk">GTK</a> <b>(2023-2025)</b>, Tauri <b>(2023-2024)</b>, LVQL <b>(2023, 2025)</b>, Tui <b>(2022-2023)</b>
+  - Rust (Desktop): <a href="https://crates.io/crates/gtk">GTK</a> <b>(2023-2025)</b>, Tauri <b>(2023-2024)</b>, LVGL <b>(2023, 2025)</b>, Tui <b>(2022-2023)</b>
   - Rust (Backend): <a href="https://crates.io/crates/headless_chrome">headless_chrome</a> <b>(2023-2024)</b>
-  - Rust (Embedded): LVQL <b>(2023, 2025)</b>, <a href="https://crates.io/crates/rppal">rppal</a> <b>(2022-2023)</b>
+  - Rust (Embedded): <a href="https://crates.io/crates/lvgl">LVGL</a> <b>(2023, 2025)</b>, <a href="https://crates.io/crates/rppal">rppal</a> <b>(2022-2023)</b>
   - Rust (Libs): <a href="https://crates.io/crates/tokio">Tokio</a> <b>(2020-2025)</b>, <a href="https://crates.io/crates/rustls">Rustls</a> <b>(2020, 2022-2023)</b>, <a href="https://crates.io/crates/minijinja">minijinja</a> <b>(2022-2024)</b>, <a href="https://crates.io/crates/serde">Serde</a> <b>(2017-2025)</b>, <a href="https://crates.io/crates/protobuf">protobuf</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/diesel">Diesel</a> <b>(2021-2023)</b>, <a href="https://crates.io/crates/anyhow">anyhow</a> <b>(2018-2025)</b>, <a href="https://crates.io/crates/log">log</a> <b>(2018-2025)</b>
 - **Experience (only C | C++)**
   - C | C++ (Desktop): QT <b>(2020-2024)</b>, Fltk <b>(2018-2019)</b>
-  - C | C++ (Embedded): LVQL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
+  - C | C++ (Embedded): LVGL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
   - C | C++ (Mobile): Android NDK <b>(2012-2014)</b>
 - **Experience (only Java)**
   - Java (Backend): Spring <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
