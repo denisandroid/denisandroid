@@ -39,7 +39,8 @@
 > 
 - **Experience (only Rust)**
   - Rust (Web): Axum <b>(2022-2025)</b>, Nickel <b>(2019)</b>
-  - Rust (Desktop): GTK <b>(2023-2025)</b>, LVQL <b>(2023, 2025)</b>
+  - Rust (Desktop): GTK <b>(2023-2025)</b>, Tauri <b>(2023-2024)</b>, LVQL <b>(2023, 2025)</b>
+  - Rust (Backend): headless_chrome <b>(2023-2024)</b>
   - Rust (Embedded): LVQL <b>(2023, 2025)</b>
   - Rust (Libs): Tokio <b>(2020-2025)</b>, Rustls <b>(2020, 2022-2023)</b>, minijinja <b>(2022-2024)</b>, Serde <b>(2017-2025)</b>, Diesel <b>(2021-2023)</b>,
 - **Experience (only C | C++)**
@@ -119,6 +120,7 @@
 ### Online Code Hosting and Collaboration Services
 - **Experience**
   - GitHub (2017-2025)
+  - GitLab (2022-2024)
   - GitVerse (2024)
   - Bitbucket (2014-2017)
 
