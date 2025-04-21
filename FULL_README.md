@@ -100,6 +100,12 @@
 - **Porting Experience (only):**
   - GNU/Linux, OpenBMC, Port <b>(2023)</b>
 
+### Cloud computing platforms
+- **Experience development**
+  - Yandex Cloud <b>(2023-2024)</b>
+  - Google Cloud <b>(2021-2022)</b>
+  - OpenShift <b>(2017-2019)</b>
+
 ### Containerization platforms
 - **Developing experience for projects**
   - Docker <b>(2018-2025)</b>
@@ -107,15 +113,11 @@
   
 ### Database Management System (DBMS)
 - **Experience**
-  - MySQL | MariaDB | SQLite, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
+  - MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
+  - SQLite, Rust <b>(2024)</b>
   - Amazon S3 | Yandex S3, Rust <b>(2023-2024)</b>
   - ClickHouse, PHP | Rust <b>(2022-2023)</b>
   - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
-
-### Distributed Version Control Systems (DVCS)
-- **Experience**
-  - Git <b>(2017-2025)</b>
-  - Mercurial <b>(2012-2017)</b>
 
 ### Online Code Hosting and Collaboration Services
 - **Experience**
@@ -123,6 +125,11 @@
   - GitLab <b>(2022-2024)</b>
   - GitVerse <b>(2024)</b>
   - Bitbucket + CI + Book <b>(2014-2017)</b>
+
+### Distributed Version Control Systems (DVCS)
+- **Experience**
+  - Git <b>(2017-2025)</b>
+  - Mercurial <b>(2012-2017)</b>
 
 ### Networks
 - **IOT Device Development (only)**
