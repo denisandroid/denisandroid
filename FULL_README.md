@@ -48,16 +48,16 @@
   - C | C++ (Embedded): LVQL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b>
   - C | C++ (Mobile): Android NDK <b>(2012-2014)</b>
 - **Experience (only Java)**
-  - Java (Backend): Spring<b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
-  - Java (Mobile): Android SDK<b>(2014-2018)</b>
-  - Java (Desktop): Swing<b>(2015-2019)</b>, AWT<b>(2015-2019)</b>
+  - Java (Backend): Spring <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
+  - Java (Mobile): Android SDK <b>(2014-2018)</b>
+  - Java (Desktop): Swing <b>(2015-2019)</b>, AWT<b>(2015-2019)</b>
 - **Experience (only PHP)**
   - PHP (Web): CodeIgniter 3/4 <b>(2015-2024)</b>, Laravel <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b>
 - **Experience (only C#)**
   - C# (Desktop+Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b>
 - **Experience (only JS | TS)**
   - JS | TS (Web): React.js <b>(2014-2024)</b>, Bootstrap(2014-2024), Angular.js <b>(2018-2020)</b>
-  - JS | TS (Mobile): React Native<b>(2020-2023)</b>, Cordova <b>(2023)</b>
+  - JS | TS (Mobile): React Native <b>(2020-2023)</b>, Cordova <b>(2023)</b>
   - JS | TS (Backend): Node.js <b>(2022-2023)</b>
 - **Experience (only Delphi | Pascal)**
   - Delphi | Pascal (Desktop): VCL (embarcadero, 2012-2015), CLX (embarcadero, 2012-2015)
@@ -74,10 +74,10 @@
   - ARM Cortex-M33: RP2350 <b>(2025)</b>
   - ARM Cortex-M4: STM32F407 <b>(2022-2023)</b>
 - **Experience (RISC)**
-  - Xtensa: RISC-V(c3): ESP-C3(esp32), ESP-S(esp32), rust | c++<b>(2022-2023, 2025)</b>
-  - Xtensa: ESP-12F(esp8266), rust | c++<b>(2020-2024)</b>
+  - Xtensa: RISC-V(c3): ESP-C3(esp32), ESP-S(esp32), rust | c++ <b>(2022-2023, 2025)</b>
+  - Xtensa: ESP-12F(esp8266), rust | c++ <b>(2020-2024)</b>
   - MIPS24kec: mt7621a, mt7620n, rust | c++ <b>(2020-2025)</b>
-  - AVR: atmega128 | atmega328, rust | c++ <b>(2014-2023)</b>), attiny13A<b>(2023-2024)</b>, attiny88-85<b>(2020-2024)</b> 
+  - AVR: atmega128 | atmega328, rust | c++ <b>(2014-2023)</b>), attiny13A <b>(2023-2024)</b>, attiny88-85 <b>(2020-2024)</b> 
 
 ### Systems Administration
 - **Administration experience**
@@ -114,15 +114,15 @@
 
 ### Distributed Version Control Systems (DVCS)
 - **Experience**
-  - Git (2017-2025)
-  - Mercurial (2012-2017)
+  - Git <b>(2017-2025)</b>
+  - Mercurial <b>(2012-2017)</b>
 
 ### Online Code Hosting and Collaboration Services
 - **Experience**
-  - GitHub (2017-2025)
-  - GitLab (2022-2024)
-  - GitVerse (2024)
-  - Bitbucket (2014-2017)
+  - GitHub + CI <b>(2017-2025)</b>
+  - GitLab <b>(2022-2024)</b>
+  - GitVerse <b>(2024)</b>
+  - Bitbucket + CI + Book <b>(2014-2017)</b>
 
 ### Networks
 - **IOT Device Development (only)**
@@ -176,6 +176,6 @@ While I used to actively use Stack Overflow to help others and share experiences
 
 ### Miscellaneous
 - **Some moments of experience:**
-  - Music lover senior + last_fm (~24.0k_scrobbles) <b>(2011-2025)</b>
+  - Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~24.0k_scrobbles) <b>(2011-2025)</b>
   - Aquarium husbandry middle <b>(2022-2025)</b>
   - Chess junior <b>(2020-2022)</b>
