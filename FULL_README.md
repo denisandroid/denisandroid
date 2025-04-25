@@ -22,16 +22,14 @@
 - **Experience**
   - **(>>)** Rust Senior <b>(2017-2025)</b>
   - C, C++ <b>(2012-2014, 2021-2025)</b>
-  - C# + .NET middle <b>(2019-2021, 2023)</b>
+  - C# <b>(2019-2021, 2023)</b>
   - PHP <b>(2014.08-2020, 2023, 2025)</b>
   - JAVA <b>(2014.09-2020)</b>
   - SQL <b>(2015-2025)</b>
-  - Wasm + Rust <b>(2019-2021)</b>
-  - BASH middle <b>(2015.01-2020, 2023-2025)</b>
-  - JS/TS + HTML + CSS <b>(2011-2023)</b>
-  - ReactNative middle <b>(JS+TS, 2021-2023)</b>
-  - Delphi middle <b>(2021)</b>
-  - Pascal middle <b>(2012-2013)</b>
+  - JS | TS <b>(2011-2023)</b>
+  - BASH <b>(2015.01-2020, 2023-2025)</b>
+  - Delphi <b>(2021)</b>
+  - Pascal <b>(2011-2013)</b>
 
 ### Frameworks and Libraries
 > [!NOTE]  
