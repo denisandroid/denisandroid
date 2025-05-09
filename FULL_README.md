@@ -54,7 +54,7 @@
 - **Experience (only C#)**
   - C# (Desktop+Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b>
 - **Experience (only JS | TS)**
-  - JS | TS (Web): React.js <b>(2014-2024)</b>, Bootstrap(2014-2024), Angular.js <b>(2018-2020)</b>
+  - JS | TS (Web): React <b>(2014-2024)</b>, Bootstrap(2014-2024), Angular.js <b>(2018-2020)</b>, AdminLTE<b>(2018, 2024)</b>
   - JS | TS (Mobile): React Native <b>(2020-2023)</b>, Cordova <b>(2023)</b>
   - JS | TS (Backend): Node.js <b>(2022-2023)</b>
 - **Experience (only Delphi | Pascal)**
@@ -80,7 +80,7 @@
 ### Systems Administration
 - **Administration experience**
   - Archlinux <b>(2018-2025)</b>
-  - Armbian (Debian+Ubuntu) <b>(2022-2025)</b>
+  - Armbian (Debian | Ubuntu) <b>(2022-2025)</b>
   - Ubuntu | Debian <b>(2015-2025)</b>
   - OpenWrt <b>(2020-2025)</b>
   - OpenBMC <b>(2023)</b>
@@ -108,7 +108,12 @@
 - **Developing experience for projects**
   - Docker <b>(2018-2025)</b>
   - systemd-nspawn <b>(2015-2018)</b>
-  
+  - portainer <b>(2023-2025)</b> <b>(Management UI)</b>
+  - containerd <b>(2018)</b>
+
+### Container Orchestration platforms
+  - kubernetes (2024-2025) (k3s, k8s, more with k3s)
+
 ### Database Management System (DBMS)
 - **Experience**
   - MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
@@ -121,6 +126,7 @@
 - **Experience**
   - GitHub + CI <b>(2017-2025)</b>
   - GitLab <b>(2022-2024)</b>
+  - Gitea + CI <b>(2024-2025)</b>
   - GitVerse <b>(2024)</b>
   - Bitbucket + CI + Book <b>(2014-2017)</b>
 
@@ -129,12 +135,16 @@
   - Git <b>(2017-2025)</b>
   - Mercurial <b>(2012-2017)</b>
 
+### Monitoring Systems/Infrastructure Monitoring Tools
+- **Experience**
+  - zabbix <b>(2022-2025)</b>
+
 ### Networks
 - **IOT Device Development (only)**
   - NB Iot, Nidd, RU <b>(2024)</b>
   - GSM Iot, BY <b>(2025)</b>
   - Zigbee, IEEE 802.15.4 <b>(2018)</b>
-  - 1Gbit | 2.5Gbit | 10Gbit (only local network)
+  - 1Gbit | 2.5Gbit | 10Gbit <b>(only local network)</b>
   - RS485 | UART, 115k-5 million baud, (tire)
 
 ### 3D Experience
