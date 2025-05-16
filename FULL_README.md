@@ -118,7 +118,7 @@
 - **Experience**
   - MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
   - SQLite, Rust <b>(2024)</b>
-  - Amazon S3 <b>(2025) (MinIO)</b> | Yandex S3, Rust <b>(2023-2024)
+  - Amazon S3 <b>(2025) (MinIO)</b> | Yandex S3, Rust <b>(2023-2024)</b>
   - ClickHouse, PHP | Rust <b>(2022-2023)</b>
   - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
 
@@ -183,7 +183,7 @@ While I used to actively use Stack Overflow to help others and share experiences
 > [!WARNING]  
 > <b>Attention</b>, this table is not advertising.
 
-### 2D Graphics Experience
+### 2D Graphics
 - **Experience**
   - Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b>
   - Gimp <b>(~2020-2025)</b>
