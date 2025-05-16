@@ -112,13 +112,13 @@
   - containerd <b>(2018)</b>
 
 ### Container Orchestration platforms
-  - kubernetes (2024-2025) (k3s, k8s, more with k3s)
+  - kubernetes <b>(2024-2025)</b> <b>(k3s, k8s, more with k3s)</b>
 
 ### Database Management System (DBMS)
 - **Experience**
   - MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
   - SQLite, Rust <b>(2024)</b>
-  - Amazon S3 | Yandex S3, Rust <b>(2023-2024)</b>
+  - Amazon S3 <b>(2025) (MinIO)</b> | Yandex S3, Rust <b>(2023-2024)
   - ClickHouse, PHP | Rust <b>(2022-2023)</b>
   - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
 
