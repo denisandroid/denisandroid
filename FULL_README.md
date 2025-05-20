@@ -106,7 +106,7 @@
 
 ### Containerization platforms
 - **Developing experience for projects**
-  - Docker <b>(2018-2025)</b>
+  - Docker + docker-compose <b>(2018-2025)</b>
   - systemd-nspawn <b>(2015-2018)</b>
   - portainer <b>(2023-2025)</b> <b>(Management UI)</b>
   - containerd <b>(2018)</b>
@@ -191,6 +191,6 @@ While I used to actively use Stack Overflow to help others and share experiences
 
 ### Miscellaneous
 - **Some moments of experience:**
-  - Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~24.0k_scrobbles) <b>(2011-2025)</b>
+  - Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~25.7k_scrobbles, 1.8xx_artists) <b>(2011-2025)</b>
   - Aquarium husbandry middle <b>(2022-2025)</b>
   - Chess junior <b>(2020-2022)</b>
