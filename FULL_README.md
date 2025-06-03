@@ -35,9 +35,6 @@
   - Pascal <b>(2011-2013)</b>
 
 ### Frameworks and Libraries
-> [!NOTE]  
-> This section is in the process of restoring time events and appeared much later than this page!!
-> 
 - **Experience (only Rust)**
   - Rust (Web): <a href="https://crates.io/crates/axum">axum</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/nickel">nickel</a> <b>(2019)</b>
   - Rust (Desktop): <a href="https://crates.io/crates/gtk">GTK</a> <b>(2023-2025)</b>, <a href="https://crates.io/crates/tauri">tauri</a> <b>(2023-2024)</b>, LVGL <b>(2023, 2025)</b>, <a href="https://crates.io/crates/tui">tui</a> <b>(2022-2023)</b>, <a href="https://crates.io/crates/ncurses">ncurses</a> <b>(2018-2020)</b>
@@ -65,7 +62,7 @@
 
 ### Embedded Systems
 - **Experience (ARM)**
-  - ARMv8 A53+A72: Amlogic a311d2, Amlogic a311d, Amlogic s905x3 <b>(2023-2025)</b>, Rockchip RK3399 NanoPc T4 <b>(2024-2025)</b>
+  - ARMv8 A53+A72: Amlogic a311d2, Amlogic a311d, Amlogic s905x3 <b>(2023-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1107152">Rockchip RK3399 NanoPc T4</a> <b>(2024-2025)</b>
   - ARMv8 A72:  Raspberry PI 4 <b>(2023-2024)</b>
   - ARMv8 A55: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>
   - ARMv8 A53: Raspberry PI 3 <b>(2019-2023)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>, Amlogic s905w<b>(2023-2025)</b>, Amlogic s912<b>(2023-2025)</b>
@@ -194,6 +191,6 @@ While I used to actively use Stack Overflow to help others and share experiences
 
 ### Miscellaneous
 - **Some moments of experience:**
-  - Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~25.7k_scrobbles, 1.8xx_artists) <b>(2011-2025)</b>
+  - Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~26k_scrobbles, 2k_artists) <b>(2011-2025)</b>
   - Aquarium husbandry middle <b>(2022-2025)</b>
   - Chess junior <b>(2020-2022)</b>
