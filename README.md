@@ -11,6 +11,9 @@
   <a href="http://stackoverflow.ulinkot.ru">
     <img src="https://img.shields.io/badge/Stackoverflow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
+  <a href="http://4pda.ulinkot.ru">
+    <img src="https://img.shields.io/badge/4pda-blue?style=for-the-badge&logo=4pda&logoColor=white" alt="4PDA Badge"/>
+  </a>
   <a href="https://crates.io/users/denisandroid">
     <img src="https://img.shields.io/crates/udt/19365?style=for-the-badge&logo=rust&logoColor=white" alt="X Badge"/>
   </a>
