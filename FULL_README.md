@@ -62,7 +62,7 @@
 
 ### Embedded Systems
 - **Experience (ARM)**
-  - ARMv8 A53+A72: Amlogic a311d2, Amlogic a311d, Amlogic s905x3 <b>(2023-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1107152">Rockchip RK3399 NanoPc T4</a> <b>(2024-2025)</b>
+  - ARMv8 A53+A72: Amlogic a311d2, <a href="https://4pda.to/forum/index.php?showtopic=1107600">Amlogic a311d</a>, Amlogic s905x3 <b>(2023-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1107152">Rockchip RK3399 NanoPc T4</a> <b>(2024-2025)</b>
   - ARMv8 A72:  Raspberry PI 4 <b>(2023-2024)</b>
   - ARMv8 A55: <a href="https://4pda.to/forum/index.php?showtopic=1094007">Rockchip RK3568B2 NanoPi R5C</a> <b>(2024-2025)</b>
   - ARMv8 A53: Raspberry PI 3 <b>(2019-2023)</b>, Allwinner <a href="https://github.com/UlinProject/REDBOXMINI3-ARMBIAN">H3</a>/<a href="https://github.com/UlinProject/REDBOXMINI5-ARMBIAN">H5</a> <b>(2022-2025)</b>, <a href="https://4pda.to/forum/index.php?showtopic=1016401">Rockchip rk3328 NanoPi NEO3</a> <b>(2020-2024)</b>, Amlogic s905w<b>(2023-2025)</b>, Amlogic s912<b>(2023-2025)</b>
