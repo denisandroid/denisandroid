@@ -85,7 +85,7 @@
   - OpenWrt <b>(2020-2025)</b>
   - OpenBMC <b>(2023)</b>
   - RedHatCloud <b>(2017-2018, 2020-2021)</b>
-  - Mint | Kubuntu <b>(2015-2018)</b>
+  - LinuxMint | Kubuntu <b>(2015-2018)</b>
 
 ### Operating System
 - **Experience development and porting**
@@ -117,16 +117,18 @@
 ### Database Management System (DBMS)
 - **Experience**
   - MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b>
-  - SQLite, Rust <b>(2024)</b>
-  - Amazon S3 <b>(2025) (MinIO)</b> | Yandex S3, Rust <b>(2023-2024)</b>
-  - ClickHouse, PHP | Rust <b>(2022-2023)</b>
+  - SQLite, C++ | Rust <b>(2024)</b>
+  - MinIO, Amazon S3 <b>(2025)</b>
+  - Yandex S3, Rust <b>(2023-2024)</b>
   - PostgreSQL, PHP | Rust <b>(2020-2025)</b>
+  - ClickHouse, PHP | Rust <b>(2022-2023)</b>
+  - Firestore (Firebase), JS | TS | PHP <b>(2018-2019)</b>
 
 ### Online Code Hosting and Collaboration Services
 - **Experience**
   - GitHub + CI <b>(2017-2025)</b>
-  - GitLab <b>(2022-2024)</b>
   - Gitea + CI <b>(2024-2025)</b>
+  - GitLab <b>(2022-2024)</b>
   - GitVerse <b>(2024)</b>
   - Bitbucket + CI + Book <b>(2014-2017)</b>
 
