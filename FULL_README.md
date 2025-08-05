@@ -229,14 +229,12 @@
 |      rust     | Rust Beginners                    | telegram | rust_beginners_ru            |    <b>admin</b>     |
 |      rust     | Московский Rust-митап             | telegram | ruRust_msk                   |    <b>admin</b>     |
 |      rust     | Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    <b>admin</b>     |
-|      rust     | Rust язык программирования chat   | telegram | rust_chats                   |    <b>admin</b>     |
 |      rust     | Rust - переводы                   | telegram | rustlang_ru_translations     |    <b>admin</b>     |
 |      rust     | Rust offtopic                     | telegram | rust_offtopic                |    <b>admin</b>     |
 |    c \| c++   | ESP8266 & ESP32 [RU]              | telegram | ProEsp8266                   |    <b>admin</b>     |
 |               | Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi              |    <b>admin</b>     |
 |    c \| c++   | pro_esp8266                       | telegram | pro_esp8266                  |    <b>admin</b>     |
 |       3D      | Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
-|       _       | ESP8266 & ESP32 Оффтоп [RU]       | telegram | ProEsp8266Off                |    <b>admin</b>     |
 
 <b>Attention</b>, this table is not advertising.
 </details>
