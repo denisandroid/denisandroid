@@ -5,7 +5,7 @@
   <a href="http://linkedin.ulinkot.ru">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://telegram.ulinkot.ru">
+  <a href="https://telegram.ulinkot.ru">
     <img src="https://img.shields.io/badge/Telegram @UlinKot-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="http://stackoverflow.ulinkot.ru">
