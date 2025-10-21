@@ -27,7 +27,7 @@
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; C, C++ <b>(2012-2014, 2021-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; C# <b>(2019-2021, 2023)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; PHP <b>(2014.08-2020, 2023, 2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; JAVA <b>(2014.09-2020)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; JAVA <b>(2014.09-2020, 2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; SQL <b>(2015-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; JS | TS <b>(2011-2023)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; BASH <b>(2015.01-2020, 2023-2025)</b></div>
@@ -55,8 +55,8 @@
 <details> 
   <summary><b># Experience (only Java)</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; Java (Backend): Spring <b>(2015-2018)</b>, cluServer <b>(2015-2022)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Java (Mobile): Android SDK <b>(2014-2018)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Java (Desktop): Swing <b>(2015-2019)</b>, AWT<b>(2015-2019)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Java (Mobile): Android SDK <b>(2014-2018)</b>, Android native 28-35 <b>(2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Java (Desktop): Swing <b>(2015-2019)</b>, AWT <b>(2015-2019)</b></div>
 </details>
 
 <details> 
