@@ -5,7 +5,7 @@
   <a href="http://linkedin.ulinkot.ru">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://telegram.ulinkot.ru">
+  <a href="http://tg.ulinkot.ru">
     <img src="https://img.shields.io/badge/Telegram @UlinKot-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="http://stackoverflow.ulinkot.ru">
@@ -153,6 +153,7 @@
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;SQLite, C++ | Rust <b>(2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;MinIO, Amazon S3 <b>(2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Garage S3<b>(2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Yandex S3, Rust <b>(2023-2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;PostgreSQL, PHP | Rust <b>(2020-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;ClickHouse, PHP | Rust <b>(2022-2023)</b></div>
@@ -236,7 +237,7 @@
 |    c \| c++   | pro_esp8266                       | telegram | pro_esp8266                  |    <b>admin</b>     |
 |       3D      | Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
 
-<b>Attention</b>, this table is not advertising.
+<b>Please note</b> that this table is not an advertisement. All chats presented here are free and open, each with its own unique theme. You can find me in these chats. Administration/moderation of these chats is provided free of charge and is carried out solely for the purpose of developing an open and safe online community.
 </details>
 
 ### 2D Graphics
