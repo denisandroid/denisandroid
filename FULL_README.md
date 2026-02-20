@@ -23,9 +23,9 @@
 ### Programming Languages
 <details open> 
   <summary><b># Experience</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; <b>(>>)</b> Rust Senior <b>(2017-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C, C++ <b>(2012-2014, 2021-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C# <b>(2019-2021, 2023)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; <b>(>>)</b> Rust Senior <b>(2017-2026)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C, C++ <b>(2012-2014, 2021-2026)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C# <b>(2019-2021, 2023, 2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; PHP <b>(2014.08-2020, 2023, 2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; JAVA <b>(2014.09-2020, 2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; SQL <b>(2015-2025)</b></div>
@@ -38,8 +38,8 @@
 ### Frameworks and Libraries
 <details open> 
   <summary><b># Experience (only Rust)</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Web): <a href="https://crates.io/crates/axum">axum</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/nickel">nickel</a> <b>(2019)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Desktop): <a href="https://crates.io/crates/gtk">GTK</a> <b>(2023-2025)</b>, <a href="https://crates.io/crates/tauri">tauri</a> <b>(2023-2024)</b>, LVGL <b>(2023, 2025)</b>, <a href="https://crates.io/crates/tui">tui</a> <b>(2022-2023)</b>, <a href="https://crates.io/crates/ncurses">ncurses</a> <b>(2018-2020)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Web): <a href="https://crates.io/crates/axum">axum</a> <b>(2022-2026)</b>, <a href="https://crates.io/crates/nickel">nickel</a> <b>(2019)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Desktop): <a href="https://crates.io/crates/gtk">GTK</a> <b>(2023-2026)</b>, <a href="https://crates.io/crates/tauri">tauri</a> <b>(2023-2024)</b>, LVGL <b>(2023, 2026)</b>, <a href="https://crates.io/crates/tui">tui</a> <b>(2022-2023)</b>, <a href="https://crates.io/crates/ncurses">ncurses</a> <b>(2018-2020)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Backend): <a href="https://crates.io/crates/headless_chrome">headless_chrome</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/vosk">vosk</a> <b>(2023-2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Embedded): <a href="https://crates.io/crates/lvgl">LVGL</a> <b>(2023, 2025)</b>, <a href="https://crates.io/crates/rppal">rppal</a> <b>(2022-2023)</b>, <a href="https://crates.io/crates/esp-hal">esp-hal</a> <b>(2022-2024)</b>, <a href="https://crates.io/crates/xtensa-lx">xtensa-lx</a> <b>(2022-2023)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; Rust (Libs): <a href="https://crates.io/crates/tokio">tokio</a> <b>(2020-2025)</b>, <a href="https://crates.io/crates/rustls">rustls</a> <b>(2020, 2022-2023)</b>, <a href="https://crates.io/crates/pyo3">pyo3</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/v4l">v4l</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/image">image</a> <b>(2017-2024)</b>, <a href="https://crates.io/crates/dasp">dasp</a> <b>(2017-2024)</b>, <a href="https://crates.io/crates/minijinja">minijinja</a> <b>(2022-2024)</b>, <a href="https://crates.io/crates/x11">x11</a> <b>(2023, 2025)</b>, <a href="https://crates.io/crates/serde">serde</a> <b>(2017-2025)</b>, <a href="https://crates.io/crates/protobuf">protobuf</a> <b>(2022-2025)</b>, <a href="https://crates.io/crates/sqlx">sqlx</a> <b>(2021-2023)</b>, <a href="https://crates.io/crates/diesel">diesel</a> <b>(2021-2023)</b>, <a href="https://crates.io/crates/mio">mio</a> <b>(2018-2020)</b>, <a href="https://crates.io/crates/bincode">bincode</a> <b>(2018-2025)</b>, <a href="https://crates.io/crates/csv">csv</a> <b>(2017-2019)</b>, <a href="https://crates.io/crates/anyhow">anyhow</a> <b>(2018-2025)</b>, <a href="https://crates.io/crates/openh264">openh264</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/tesseract">tesseract</a> <b>(2023-2024)</b>, <a href="https://crates.io/crates/log">log</a> <b>(2017-2025)</b>, <a href="https://crates.io/crates/curl">curl</a> <b>(2017-2019)</b>, <a href="https://crates.io/crates/printpdf">printpdf</a> <b>(2017-2019)</b></div>
@@ -48,7 +48,7 @@
 <details> 
   <summary><b># Experience (only C | C++)</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; C | C++ (Desktop): QT <b>(2020-2024)</b>, Fltk <b>(2018-2019)</b>, VCL <b>(embarcadero, 2012-2014)</b>b</div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C | C++ (Embedded): LVGL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2025)</b>, arduino <b>(2014-2023)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C | C++ (Embedded): LVGL <b>(2023)</b>, esp-idf <b>(2018-2024)</b>, platformio environment <b>(2020-2026)</b>, arduino <b>(2014-2023, 2025-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; C | C++ (Mobile): Android NDK <b>(2012-2014)</b></div>
 </details>
 
@@ -67,6 +67,7 @@
 <details> 
   <summary><b># Experience (only C#)</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp; C# (Desktop + Backend): .Net 4.5/5 <b>(2019-2022)</b>, .Net Core <b>(2019-2022)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp; C# (Mobile): Unity, AR Foundation <b>(2026)</b></div>
 </details>
 
 <details> 
@@ -105,10 +106,10 @@
 ### Systems Administration
 <details open> 
   <summary><b># Experience</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Archlinux <b>(2018-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Armbian (Debian | Ubuntu) <b>(2022-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Archlinux <b>(2018-2026)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Armbian (Debian | Ubuntu) <b>(2022-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Ubuntu | Debian <b>(2015-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;OpenWrt <b>(2020-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;OpenWrt <b>(2020-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;OpenBMC <b>(2023)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;RedHatCloud <b>(2017-2018, 2020-2021)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;LinuxMint | Kubuntu <b>(2015-2018)</b></div>
@@ -117,8 +118,8 @@
 ### Operating Systems
 <details> 
   <summary><b># Experience os development and os porting</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GNU/Linux, Armbian, Porting | Development <b>(2020-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GNU/Linux, Archlinux ARM, Porting | Development <b>(2020-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GNU/Linux, Armbian, Porting | Development <b>(2020-2026)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GNU/Linux, Archlinux ARM, Porting | Development <b>(2020-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;GNU/Linux, OpenWRT MIPS/ARM, Porting | Development <b>(2020-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Linux, Android 4.2-4.4, Mod | Porting <b>(2013-2015)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;GNU/Linux, OpenBMC, Port <b>(2023)</b></div>
@@ -135,7 +136,7 @@
 ### Containerization platforms
 <details open> 
   <summary><b># Developing experience for projects</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Docker + docker-compose <b>(2018-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Docker + docker-compose <b>(2018-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;systemd-nspawn <b>(2015-2018)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;portainer <b>(2023-2025)</b> <b>(Management UI)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;containerd <b>(2018)</b></div>
@@ -197,24 +198,24 @@
 <details open> 
   <summary><b># Machines</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, <b>(2023-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;<a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;<a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2026)</b></div>
 </details>
 
 <details> 
   <summary><b># Slicers</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;UltiMaker Cura, junior <b>(2023-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;UltiMaker Cura, middle <b>(2023-2026)</b></div>
 </details>
 
 <details> 
   <summary><b># Modeling</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Blender, junior <b>(2024-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Blender, junior <b>(2024-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;SolveSpace, junior <b>(2023-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;3DSMax, junior <b>(2020-2021)</b></div>
 </details>
 
 <details> 
   <summary><b># Materials</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;PLA | PETG plastic <b>(2023-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;PLA | PETG plastic <b>(2023-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;TPU plastic <b>(2025)</b></div>
 </details>
 
@@ -225,8 +226,8 @@
   
 |   direction   |              name                 |   type   |              abb             |        role         |
 | ------------- | --------------------------------- | -------- | ---------------------------- | ------------------- |
+|      rust     | Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |                     |
 |      rust     | Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    <b>admin</b>     |
-|      rust     | Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |    <b>admin</b>     |
 |      rust     | Rust Beginners                    | telegram | rust_beginners_ru            |    <b>admin</b>     |
 |      rust     | Московский Rust-митап             | telegram | ruRust_msk                   |    <b>admin</b>     |
 |      rust     | Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    <b>admin</b>     |
@@ -244,7 +245,7 @@
 <details> 
   <summary><b># Experience</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Gimp <b>(~2020-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Gimp <b>(~2020-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;CorelDraw <b>(~2015-2019)</b></div>
 </details>
 
@@ -252,6 +253,6 @@
 <details> 
   <summary><b># Some moments of experience</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~26k_scrobbles, 2k_artists) <b>(2011-2025)</b></div>
- <div>&nbsp;&nbsp;&nbsp;-&nbsp;Aquarium husbandry middle <b>(2022-2025)</b></div>
+ <div>&nbsp;&nbsp;&nbsp;-&nbsp;Aquarium husbandry middle <b>(2022-2026)</b></div>
  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Chess junior <b>(2020-2022)</b></div>
 </details>
