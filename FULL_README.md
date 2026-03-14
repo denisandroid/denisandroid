@@ -8,6 +8,11 @@
   <a href="http://tg.ulinkot.ru">
     <img src="https://img.shields.io/badge/Telegram @UlinKot-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+
+  <a href="http://thingiverse.ulinkot.ru">
+    <img src="https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
+  </a>
+  
   <a href="http://stackoverflow.ulinkot.ru">
     <img src="https://img.shields.io/badge/Stackoverflow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
