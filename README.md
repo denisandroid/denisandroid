@@ -2,21 +2,21 @@
   <img src="https://github.com/denisandroid/denisandroid/blob/main/avatar2.png?raw=true" width="120px"/>
   </br></br>
 <div id="badges">
-  <a href="http://linkedin.ulinkot.ru">
+  <a href="https://linkedin.ulinkot.tech">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://tg.ulinkot.ru">
+  <a href="https://tg.ulinkot.tech">
     <img src="https://img.shields.io/badge/Telegram @UlinKot-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="http://thingiverse.ulinkot.ru">
+  <a href="https://thingiverse.ulinkot.tech">
     <img src="https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
   </a>
 
   
-  <a href="http://stackoverflow.ulinkot.ru">
+  <a href="https://stackoverflow.ulinkot.tech">
     <img src="https://img.shields.io/badge/Stackoverflow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="http://4pda.ulinkot.ru">
+  <a href="https://4pda.ulinkot.tech">
     <img src="https://img.shields.io/badge/4pda-blue?style=for-the-badge&logo=4pda&logoColor=white" alt="4PDA Badge"/>
   </a>
   <a href="https://crates.io/users/denisandroid">
