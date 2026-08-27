@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://github.com/denisandroid/denisandroid/blob/main/avatar2.png?raw=true" width="120px"/>
-  </br></br>
+  </br>
+  <b>[ me@ulinkot.tech | ulinkot.tech | ulinkot.ru (old) ]</b>
+  </br>
 <div id="badges">
   <a href="https://linkedin.ulinkot.tech">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -131,7 +133,7 @@
 </details>
 
 ### Cloud computing platforms
-<details open> 
+<details> 
   <summary><b># Experience development</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Yandex Cloud <b>(2023-2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Google Cloud <b>(2021-2022)</b></div>
@@ -139,7 +141,7 @@
 </details>
 
 ### Containerization platforms
-<details open> 
+<details> 
   <summary><b># Developing experience for projects</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Docker + docker-compose <b>(2018-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;systemd-nspawn <b>(2015-2018)</b></div>
@@ -154,7 +156,7 @@
 </details>
 
 ### Database Management System (DBMS)
-<details open> 
+<details> 
   <summary><b># Experience</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;MySQL | MariaDB, Rust | Java | PHP | Delphi <b>(2015-2018, 2022-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;SQLite, C++ | Rust <b>(2024)</b></div>
@@ -169,17 +171,17 @@
 ### Online Code Hosting and Collaboration Services
 <details open> 
   <summary><b># Experience</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GitHub + CI <b>(2017-2025)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Gitea + CI <b>(2024-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GitHub + CI <b>(2017-2026)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Gitea + CI <b>(2024-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;GitLab <b>(2022-2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;GitVerse <b>(2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Bitbucket + CI + Book <b>(2014-2017)</b></div>
 </details>
 
 ### Distributed Version Control Systems (DVCS)
-<details open> 
+<details> 
   <summary><b># Experience</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Git <b>(2017-2025)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Git <b>(2017-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Mercurial <b>(2012-2017)</b></div>
 </details>
 
@@ -189,18 +191,30 @@
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;zabbix <b>(2022-2025)</b></div>
 </details>
 
-### Networks
-<details> 
-  <summary><b># IOT Device Development (only)</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;NB Iot, Nidd, RU <b>(2024)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GSM Iot, BY <b>(2025)</b></div></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Zigbee, IEEE 802.15.4 <b>(2018)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;1Gbit | 2.5Gbit | 10Gbit <b>(only local network)</b></div>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;RS485 | UART, 115k-5 million baud, (tire)</div>
+### Administration
+<details open> 
+  <summary><b># Show table</b></summary>
+  <div></div>
+  
+|   direction         |              name                 |   type   |              abb             |        role         |
+| ------------------- | --------------------------------- | -------- | ---------------------------- | ------------------- |
+|      rust           | Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |                     |
+|      rust           | Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    <b>admin</b>     |
+|      rust           | Rust Beginners                    | telegram | rust_beginners_ru            |    <b>admin</b>     |
+|      rust           | Московский Rust-митап             | telegram | ruRust_msk                   |    <b>admin</b>     |
+|      rust           | Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    <b>admin</b>     |
+|      rust           | Rust - переводы                   | telegram | rustlang_ru_translations     |    <b>admin</b>     |
+|      rust           | Rust offtopic                     | telegram | rust_offtopic                |    <b>admin</b>     |
+|    c \| c++         | ESP8266 & ESP32 [RU]              | telegram | ProEsp8266                   |    <b>admin</b>     |
+|                     | Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi              |    <b>admin</b>     |
+|    c \| c++         | pro_esp8266                       | telegram | pro_esp8266                  |    <b>admin</b>     |
+|       3D            | Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
+
+<b>Please note</b> that this table is not an advertisement. All chats presented here are free and open, each with its own unique theme. You can find me in these chats. Administration/moderation of these chats is provided free of charge and is carried out solely for the purpose of developing an open and safe online community.
 </details>
 
 ### 3D Experience
-<details open> 
+<details> 
   <summary><b># Machines</b></summary>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Custom 3D Printer, self made, CoreXY kinematics, Klipper, STM32F407+RP2040, RS485x2 full duplex, <b>(2023-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;<a href="https://github.com/UlinProject/snapmaker-original">Snapmaker Original</a> 3D Printer, Prusa kinematics, Klipper <b>(2024-2026)</b></div>
@@ -216,6 +230,8 @@
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Blender, junior <b>(2024-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;SolveSpace, junior <b>(2023-2025)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;3DSMax, junior <b>(2020-2021)</b></div>
+
+  <a href="https://www.thingiverse.com/UlinKot/designs">View all open source projects</a>
 </details>
 
 <details> 
@@ -224,26 +240,14 @@
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;TPU plastic <b>(2025)</b></div>
 </details>
 
-### Administration
+### Networks
 <details> 
-  <summary><b># Show table</b></summary>
-  <div></div>
-  
-|   direction   |              name                 |   type   |              abb             |        role         |
-| ------------- | --------------------------------- | -------- | ---------------------------- | ------------------- |
-|      rust     | Rust Jobs - вакансии & резюме     | telegram | rust_jobs                    |                     |
-|      rust     | Rust — русскоговорящее сообщество | telegram | rustlang_ru                  |    <b>admin</b>     |
-|      rust     | Rust Beginners                    | telegram | rust_beginners_ru            |    <b>admin</b>     |
-|      rust     | Московский Rust-митап             | telegram | ruRust_msk                   |    <b>admin</b>     |
-|      rust     | Раст-митапы в Санкт-Петербурге    | telegram | ruRust_spb                   |    <b>admin</b>     |
-|      rust     | Rust - переводы                   | telegram | rustlang_ru_translations     |    <b>admin</b>     |
-|      rust     | Rust offtopic                     | telegram | rust_offtopic                |    <b>admin</b>     |
-|    c \| c++   | ESP8266 & ESP32 [RU]              | telegram | ProEsp8266                   |    <b>admin</b>     |
-|               | Raspberry Pi [Ru]                 | telegram | ru_raspberry_pi              |    <b>admin</b>     |
-|    c \| c++   | pro_esp8266                       | telegram | pro_esp8266                  |    <b>admin</b>     |
-|       3D      | Lerdge 3d Russian users           | telegram | Lerdge3d                     |    <b>admin</b>     |
-
-<b>Please note</b> that this table is not an advertisement. All chats presented here are free and open, each with its own unique theme. You can find me in these chats. Administration/moderation of these chats is provided free of charge and is carried out solely for the purpose of developing an open and safe online community.
+  <summary><b># IOT Device Development (only)</b></summary>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;NB Iot, Nidd, RU <b>(2024)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;GSM Iot, BY <b>(2025)</b></div></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Zigbee, IEEE 802.15.4 <b>(2018)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;1Gbit | 2.5Gbit | 10Gbit <b>(only local network)</b></div>
+  <div>&nbsp;&nbsp;&nbsp;-&nbsp;RS485 | UART, 115k-5 million baud, (tire)</div>
 </details>
 
 ### 2D Graphics
@@ -252,12 +256,4 @@
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Material Design, Minimalism, Inkscape <b>(2015-2022, 2023-2024)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;Gimp <b>(~2020-2026)</b></div>
   <div>&nbsp;&nbsp;&nbsp;-&nbsp;CorelDraw <b>(~2015-2019)</b></div>
-</details>
-
-### Miscellaneous
-<details> 
-  <summary><b># Some moments of experience</b></summary>
-  <div>&nbsp;&nbsp;&nbsp;-&nbsp;Music lover senior + <a href="https://www.last.fm/user/UlinKot64">last_fm</a> (~26k_scrobbles, 2k_artists) <b>(2011-2025)</b></div>
- <div>&nbsp;&nbsp;&nbsp;-&nbsp;Aquarium husbandry middle <b>(2022-2026)</b></div>
- <div>&nbsp;&nbsp;&nbsp;-&nbsp;Chess junior <b>(2020-2022)</b></div>
 </details>
