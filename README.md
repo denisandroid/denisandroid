@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://github.com/denisandroid/denisandroid/blob/main/avatar2.png?raw=true" width="120px"/>
-  </br></br>
+  </br>
+  <b>[ me@ulinkot.tech | ulinkot.tech | ulinkot.ru (old) ]</b>
+  </br>
 <div id="badges">
   <a href="https://linkedin.ulinkot.tech">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,7 +35,6 @@
   - C# <b>(2019-2021, 2023, 2026)</b>
   - PHP <b>(2014.08-2020, 2023, 2025)</b>
   - JAVA <b>(2014.09-2020, 2025)</b>
-  - SQL <b>(2015-2025)</b>
   - ...
 
 [Show all >>](https://github.com/denisandroid/denisandroid/blob/main/FULL_README.md)
